@@ -7,7 +7,7 @@
         "LAND_AREA_SQ_METER": 1914046110,
         "LAND_AREA_SQ_MILES": 739.0169999999999,
         "LATITUDE": 37.648081,
-        "LONGITUD": -121.91330400000001,
+        "LONGITUDE": -121.91330400000001,
         "ZIP_CODES": [
             94550,
             94586,
@@ -72,7 +72,7 @@
         "LAND_AREA_SQ_METER": 1854268836,
         "LAND_AREA_SQ_MILES": 715.937,
         "LATITUDE": 37.919478999999995,
-        "LONGITUD": -121.95154299999999,
+        "LONGITUDE": -121.95154299999999,
         "ZIP_CODES": [
             94513,
             94517,
@@ -134,7 +134,7 @@
         "LAND_AREA_SQ_METER": 1347585521,
         "LAND_AREA_SQ_MILES": 520.306,
         "LATITUDE": 38.051817,
-        "LONGITUD": -122.745974,
+        "LONGITUDE": -122.745974,
         "ZIP_CODES": [
             94952,
             94956,
@@ -176,7 +176,7 @@
         "LAND_AREA_SQ_METER": 1938247338,
         "LAND_AREA_SQ_MILES": 748.362,
         "LATITUDE": 38.507351,
-        "LONGITUD": -122.32599499999999,
+        "LONGITUDE": -122.32599499999999,
         "ZIP_CODES": [
             94558,
             94567,
@@ -199,7 +199,7 @@
         "LAND_AREA_SQ_METER": 121399963,
         "LAND_AREA_SQ_MILES": 46.873000000000005,
         "LATITUDE": 37.727239000000004,
-        "LONGITUD": -123.032229,
+        "LONGITUDE": -123.032229,
         "ZIP_CODES": [
             94124,
             94112,
@@ -238,7 +238,7 @@
         "LAND_AREA_SQ_METER": 1161371825,
         "LAND_AREA_SQ_MILES": 448.408,
         "LATITUDE": 37.414664,
-        "LONGITUD": -122.37154199999999,
+        "LONGITUDE": -122.37154199999999,
         "ZIP_CODES": [
             94060,
             94062,
@@ -272,43 +272,6 @@
             94038
         ]
     },
-    "Santa Barbara": {
-        "GEOID": 6083,
-        "NAME": "Santa Barbara",
-        "POPULATION_2010": 423895,
-        "HOUSING_2010": 152834,
-        "LAND_AREA_SQ_METER": 7083838022,
-        "LAND_AREA_SQ_MILES": 2735.085,
-        "LATITUDE": 34.537378000000004,
-        "LONGITUD": -120.03848500000001,
-        "ZIP_CODES": [
-            93454,
-            93436,
-            93117,
-            93254,
-            93460,
-            93455,
-            93105,
-            93001,
-            93252,
-            93427,
-            93441,
-            93013,
-            93440,
-            93437,
-            93434,
-            93463,
-            93458,
-            93108,
-            93110,
-            93111,
-            93429,
-            93103,
-            93101,
-            93109,
-            93067
-        ]
-    },
     "Santa Clara": {
         "GEOID": 6085,
         "NAME": "Santa Clara",
@@ -317,7 +280,7 @@
         "LAND_AREA_SQ_METER": 3341343470,
         "LAND_AREA_SQ_MILES": 1290.1,
         "LATITUDE": 37.220777000000005,
-        "LONGITUD": -121.69062199999999,
+        "LONGITUDE": -121.69062199999999,
         "ZIP_CODES": [
             95037,
             95020,
@@ -392,7 +355,7 @@
         "LAND_AREA_SQ_METER": 2128361199,
         "LAND_AREA_SQ_MILES": 821.765,
         "LATITUDE": 38.267226,
-        "LONGITUD": -121.939594,
+        "LONGITUDE": -121.939594,
         "ZIP_CODES": [
             95620,
             94585,
@@ -423,7 +386,7 @@
         "LAND_AREA_SQ_METER": 4081430136,
         "LAND_AREA_SQ_MILES": 1575.849,
         "LATITUDE": 38.532574,
-        "LONGITUD": -122.945194,
+        "LONGITUDE": -122.945194,
         "ZIP_CODES": [
             95421,
             95448,
