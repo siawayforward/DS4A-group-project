@@ -1,0 +1,274 @@
+{
+    "Berkeley Aquatic Park": {
+        "NAME": "Berkeley Aquatic Park",
+        "COUNTY": "Alameda",
+        "LATITUDE": 37.864767,
+        "LONGITUDE": -122.302741,
+        "START_DATE": "7/1/2016",
+        "END_DATE": "8/31/2020"
+    },
+    "Concord": {
+        "NAME": "Concord",
+        "COUNTY": "Contra Costa",
+        "LATITUDE": 37.936013,
+        "LONGITUDE": -122.026154,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Cortina Indian Rancheria": {
+        "NAME": "Cortina Indian Rancheria",
+        "COUNTY": "Colusa",
+        "LATITUDE": 39.021221000000004,
+        "LONGITUDE": -122.281803,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "9/15/2020"
+    },
+    "Gilroy": {
+        "NAME": "Gilroy",
+        "COUNTY": "Santa Clara",
+        "LATITUDE": 36.999571,
+        "LONGITUDE": -121.574684,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Hollister": {
+        "NAME": "Hollister",
+        "COUNTY": "San Benito",
+        "LATITUDE": 36.843425,
+        "LONGITUDE": -121.3621,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "6/30/2020"
+    },
+    "Lakeport-S. Main Street": {
+        "NAME": "Lakeport-S. Main Street",
+        "COUNTY": "Lake",
+        "LATITUDE": 39.01893,
+        "LONGITUDE": -122.91333,
+        "START_DATE": "7/6/2017",
+        "END_DATE": "6/26/2020"
+    },
+    "Laney College": {
+        "NAME": "Laney College",
+        "COUNTY": "Alameda",
+        "LATITUDE": 37.793624,
+        "LONGITUDE": -122.263376,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Livermore": {
+        "NAME": "Livermore",
+        "COUNTY": "Alameda",
+        "LATITUDE": 37.687526,
+        "LONGITUDE": -121.784217,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Manteca": {
+        "NAME": "Manteca",
+        "COUNTY": "San Joaquin",
+        "LATITUDE": 37.793392,
+        "LONGITUDE": -121.247874,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "9/30/2020"
+    },
+    "Modesto-14th Street": {
+        "NAME": "Modesto-14th Street",
+        "COUNTY": "Stanislaus",
+        "LATITUDE": 37.642165000000006,
+        "LONGITUDE": -120.994212,
+        "START_DATE": "1/6/2015",
+        "END_DATE": "7/31/2020"
+    },
+    "Napa": {
+        "NAME": "Napa",
+        "COUNTY": "Napa",
+        "LATITUDE": 38.310942,
+        "LONGITUDE": -122.29618899999998,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "3/31/2018"
+    },
+    "Napa Valley College": {
+        "NAME": "Napa Valley College",
+        "COUNTY": "Napa",
+        "LATITUDE": 38.278849,
+        "LONGITUDE": -122.275024,
+        "START_DATE": "4/1/2018",
+        "END_DATE": "8/31/2020"
+    },
+    "Oakland": {
+        "NAME": "Oakland",
+        "COUNTY": "Alameda",
+        "LATITUDE": 37.743065,
+        "LONGITUDE": -122.16993500000001,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Oakland West": {
+        "NAME": "Oakland West",
+        "COUNTY": "Alameda",
+        "LATITUDE": 37.814780999999996,
+        "LONGITUDE": -122.282347,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Pleasanton - Owens Ct": {
+        "NAME": "Pleasanton - Owens Ct",
+        "COUNTY": "Alameda",
+        "LATITUDE": 37.701221999999994,
+        "LONGITUDE": -121.903019,
+        "START_DATE": "4/3/2018",
+        "END_DATE": "8/31/2020"
+    },
+    "Redwood City": {
+        "NAME": "Redwood City",
+        "COUNTY": "San Mateo",
+        "LATITUDE": 37.482934,
+        "LONGITUDE": -122.20336999999999,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Sacramento-1309 T Street": {
+        "NAME": "Sacramento-1309 T Street",
+        "COUNTY": "Sacramento",
+        "LATITUDE": 38.56844,
+        "LONGITUDE": -121.49311000000002,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "7/30/2020"
+    },
+    "Sacramento-Bercut Drive": {
+        "NAME": "Sacramento-Bercut Drive",
+        "COUNTY": "Sacramento",
+        "LATITUDE": 38.593322,
+        "LONGITUDE": -121.503795,
+        "START_DATE": "12/2/2016",
+        "END_DATE": "7/29/2020"
+    },
+    "Sacramento-Del Paso Manor": {
+        "NAME": "Sacramento-Del Paso Manor",
+        "COUNTY": "Sacramento",
+        "LATITUDE": 38.613779,
+        "LONGITUDE": -121.36801399999999,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "7/31/2020"
+    },
+    "Salinas 3": {
+        "NAME": "Salinas 3",
+        "COUNTY": "Monterey",
+        "LATITUDE": 36.694261,
+        "LONGITUDE": -121.623271,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "6/30/2020"
+    },
+    "San Francisco": {
+        "NAME": "San Francisco",
+        "COUNTY": "San Francisco",
+        "LATITUDE": 37.765946,
+        "LONGITUDE": -122.39904399999999,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "San Jose - Jackson": {
+        "NAME": "San Jose - Jackson",
+        "COUNTY": "Santa Clara",
+        "LATITUDE": 37.348496999999995,
+        "LONGITUDE": -121.894898,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "San Jose - Knox Avenue": {
+        "NAME": "San Jose - Knox Avenue",
+        "COUNTY": "Santa Clara",
+        "LATITUDE": 37.338135,
+        "LONGITUDE": -121.849783,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "7/31/2020"
+    },
+    "San Lorenzo Valley Middle School": {
+        "NAME": "San Lorenzo Valley Middle School",
+        "COUNTY": "Santa Cruz",
+        "LATITUDE": 37.06315,
+        "LONGITUDE": -122.083092,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "6/30/2020"
+    },
+    "San Pablo": {
+        "NAME": "San Pablo",
+        "COUNTY": "Contra Costa",
+        "LATITUDE": 37.9604,
+        "LONGITUDE": -122.35681100000001,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "San Rafael": {
+        "NAME": "San Rafael",
+        "COUNTY": "Marin",
+        "LATITUDE": 37.97231,
+        "LONGITUDE": -122.520004,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Santa Cruz": {
+        "NAME": "Santa Cruz",
+        "COUNTY": "Santa Cruz",
+        "LATITUDE": 36.98332,
+        "LONGITUDE": -121.98822,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "6/30/2020"
+    },
+    "Sebastopol": {
+        "NAME": "Sebastopol",
+        "COUNTY": "Sonoma",
+        "LATITUDE": 38.403765,
+        "LONGITUDE": -122.818294,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Sloughhouse": {
+        "NAME": "Sloughhouse",
+        "COUNTY": "Sacramento",
+        "LATITUDE": 38.494475,
+        "LONGITUDE": -121.21113100000001,
+        "START_DATE": "5/15/2017",
+        "END_DATE": "7/31/2020"
+    },
+    "Stockton-Hazelton": {
+        "NAME": "Stockton-Hazelton",
+        "COUNTY": "San Joaquin",
+        "LATITUDE": 37.950741,
+        "LONGITUDE": -121.268523,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "7/31/2020"
+    },
+    "Ukiah-Library": {
+        "NAME": "Ukiah-Library",
+        "COUNTY": "Mendocino",
+        "LATITUDE": 39.15047,
+        "LONGITUDE": -123.20655,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "3/31/2020"
+    },
+    "Vallejo": {
+        "NAME": "Vallejo",
+        "COUNTY": "Solano",
+        "LATITUDE": 38.102507,
+        "LONGITUDE": -122.237976,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "8/31/2020"
+    },
+    "Willits-125 East Commercial Street": {
+        "NAME": "Willits-125 East Commercial Street",
+        "COUNTY": "Mendocino",
+        "LATITUDE": 39.41174,
+        "LONGITUDE": -123.35264,
+        "START_DATE": "1/1/2015",
+        "END_DATE": "3/31/2020"
+    },
+    "Woodland-Gibson Road": {
+        "NAME": "Woodland-Gibson Road",
+        "COUNTY": "Yolo",
+        "LATITUDE": 38.66121,
+        "LONGITUDE": -121.73268999999999,
+        "START_DATE": "1/6/2015",
+        "END_DATE": "7/26/2020"
+    }
+}
