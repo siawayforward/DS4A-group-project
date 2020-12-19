@@ -1,0 +1,3052 @@
+{
+    "94002": {
+        "ZIP_CODE": 94002,
+        "POPULATION_2010": 25992,
+        "HOUSING_2010": 11108,
+        "LAND_AREA_SQ_METER": 14668197,
+        "LAND_AREA_SQ_MILES": 5.662999999999999,
+        "LATITUDE": 37.514352,
+        "LONGITUDE": -122.298896,
+        "COUNTY": "San Mateo"
+    },
+    "94005": {
+        "ZIP_CODE": 94005,
+        "POPULATION_2010": 4282,
+        "HOUSING_2010": 1934,
+        "LAND_AREA_SQ_METER": 11384384,
+        "LAND_AREA_SQ_MILES": 4.396,
+        "LATITUDE": 37.688826,
+        "LONGITUDE": -122.40893500000001,
+        "COUNTY": "San Mateo"
+    },
+    "94010": {
+        "ZIP_CODE": 94010,
+        "POPULATION_2010": 40737,
+        "HOUSING_2010": 17348,
+        "LAND_AREA_SQ_METER": 30654438,
+        "LAND_AREA_SQ_MILES": 11.835999999999999,
+        "LATITUDE": 37.57028,
+        "LONGITUDE": -122.365778,
+        "COUNTY": "San Mateo"
+    },
+    "94014": {
+        "ZIP_CODE": 94014,
+        "POPULATION_2010": 47014,
+        "HOUSING_2010": 14284,
+        "LAND_AREA_SQ_METER": 16334952,
+        "LAND_AREA_SQ_MILES": 6.307,
+        "LATITUDE": 37.690868,
+        "LONGITUDE": -122.44743700000001,
+        "COUNTY": "San Mateo"
+    },
+    "94015": {
+        "ZIP_CODE": 94015,
+        "POPULATION_2010": 60927,
+        "HOUSING_2010": 20678,
+        "LAND_AREA_SQ_METER": 14921282,
+        "LAND_AREA_SQ_MILES": 5.761,
+        "LATITUDE": 37.681267,
+        "LONGITUDE": -122.48059099999999,
+        "COUNTY": "San Mateo"
+    },
+    "94019": {
+        "ZIP_CODE": 94019,
+        "POPULATION_2010": 18424,
+        "HOUSING_2010": 7096,
+        "LAND_AREA_SQ_METER": 136231572,
+        "LAND_AREA_SQ_MILES": 52.599,
+        "LATITUDE": 37.469453,
+        "LONGITUDE": -122.411841,
+        "COUNTY": "San Mateo"
+    },
+    "94020": {
+        "ZIP_CODE": 94020,
+        "POPULATION_2010": 1559,
+        "HOUSING_2010": 849,
+        "LAND_AREA_SQ_METER": 144436917,
+        "LAND_AREA_SQ_MILES": 55.766999999999996,
+        "LATITUDE": 37.274612,
+        "LONGITUDE": -122.23241999999999,
+        "COUNTY": "San Mateo"
+    },
+    "94021": {
+        "ZIP_CODE": 94021,
+        "POPULATION_2010": 192,
+        "HOUSING_2010": 115,
+        "LAND_AREA_SQ_METER": 11740454,
+        "LAND_AREA_SQ_MILES": 4.533,
+        "LATITUDE": 37.270838,
+        "LONGITUDE": -122.28073799999999,
+        "COUNTY": "San Mateo"
+    },
+    "94022": {
+        "ZIP_CODE": 94022,
+        "POPULATION_2010": 18500,
+        "HOUSING_2010": 7479,
+        "LAND_AREA_SQ_METER": 45294442,
+        "LAND_AREA_SQ_MILES": 17.488,
+        "LATITUDE": 37.357471999999994,
+        "LONGITUDE": -122.14441599999999,
+        "COUNTY": "Santa Clara"
+    },
+    "94024": {
+        "ZIP_CODE": 94024,
+        "POPULATION_2010": 22385,
+        "HOUSING_2010": 8178,
+        "LAND_AREA_SQ_METER": 18910937,
+        "LAND_AREA_SQ_MILES": 7.3020000000000005,
+        "LATITUDE": 37.352252,
+        "LONGITUDE": -122.09433700000001,
+        "COUNTY": "Santa Clara"
+    },
+    "94025": {
+        "ZIP_CODE": 94025,
+        "POPULATION_2010": 40526,
+        "HOUSING_2010": 16271,
+        "LAND_AREA_SQ_METER": 30440620,
+        "LAND_AREA_SQ_MILES": 11.753,
+        "LATITUDE": 37.457524,
+        "LONGITUDE": -122.176542,
+        "COUNTY": "San Mateo"
+    },
+    "94027": {
+        "ZIP_CODE": 94027,
+        "POPULATION_2010": 7089,
+        "HOUSING_2010": 2616,
+        "LAND_AREA_SQ_METER": 13461324,
+        "LAND_AREA_SQ_MILES": 5.197,
+        "LATITUDE": 37.453514,
+        "LONGITUDE": -122.204756,
+        "COUNTY": "San Mateo"
+    },
+    "94028": {
+        "ZIP_CODE": 94028,
+        "POPULATION_2010": 6534,
+        "HOUSING_2010": 2744,
+        "LAND_AREA_SQ_METER": 39458835,
+        "LAND_AREA_SQ_MILES": 15.235,
+        "LATITUDE": 37.376855,
+        "LONGITUDE": -122.20978400000001,
+        "COUNTY": "Santa Clara"
+    },
+    "94030": {
+        "ZIP_CODE": 94030,
+        "POPULATION_2010": 21536,
+        "HOUSING_2010": 8374,
+        "LAND_AREA_SQ_METER": 8771378,
+        "LAND_AREA_SQ_MILES": 3.387,
+        "LATITUDE": 37.59897,
+        "LONGITUDE": -122.401991,
+        "COUNTY": "San Mateo"
+    },
+    "94037": {
+        "ZIP_CODE": 94037,
+        "POPULATION_2010": 2913,
+        "HOUSING_2010": 1169,
+        "LAND_AREA_SQ_METER": 14985393,
+        "LAND_AREA_SQ_MILES": 5.7860000000000005,
+        "LATITUDE": 37.554358,
+        "LONGITUDE": -122.496668,
+        "COUNTY": "San Mateo"
+    },
+    "94038": {
+        "ZIP_CODE": 94038,
+        "POPULATION_2010": 3040,
+        "HOUSING_2010": 1109,
+        "LAND_AREA_SQ_METER": 4081711,
+        "LAND_AREA_SQ_MILES": 1.5759999999999998,
+        "LATITUDE": 37.526902,
+        "LONGITUDE": -122.51216399999998,
+        "COUNTY": "San Mateo"
+    },
+    "94040": {
+        "ZIP_CODE": 94040,
+        "POPULATION_2010": 32996,
+        "HOUSING_2010": 14492,
+        "LAND_AREA_SQ_METER": 9554256,
+        "LAND_AREA_SQ_MILES": 3.6889999999999996,
+        "LATITUDE": 37.380565999999995,
+        "LONGITUDE": -122.08528600000001,
+        "COUNTY": "Santa Clara"
+    },
+    "94041": {
+        "ZIP_CODE": 94041,
+        "POPULATION_2010": 13292,
+        "HOUSING_2010": 6331,
+        "LAND_AREA_SQ_METER": 3962150,
+        "LAND_AREA_SQ_MILES": 1.53,
+        "LATITUDE": 37.388528,
+        "LONGITUDE": -122.07573400000001,
+        "COUNTY": "Santa Clara"
+    },
+    "94043": {
+        "ZIP_CODE": 94043,
+        "POPULATION_2010": 28358,
+        "HOUSING_2010": 13213,
+        "LAND_AREA_SQ_METER": 27643575,
+        "LAND_AREA_SQ_MILES": 10.673,
+        "LATITUDE": 37.421865000000004,
+        "LONGITUDE": -122.070895,
+        "COUNTY": "Santa Clara"
+    },
+    "94044": {
+        "ZIP_CODE": 94044,
+        "POPULATION_2010": 37296,
+        "HOUSING_2010": 14550,
+        "LAND_AREA_SQ_METER": 37983639,
+        "LAND_AREA_SQ_MILES": 14.665999999999999,
+        "LATITUDE": 37.606593,
+        "LONGITUDE": -122.477228,
+        "COUNTY": "San Mateo"
+    },
+    "94060": {
+        "ZIP_CODE": 94060,
+        "POPULATION_2010": 1554,
+        "HOUSING_2010": 650,
+        "LAND_AREA_SQ_METER": 188949679,
+        "LAND_AREA_SQ_MILES": 72.954,
+        "LATITUDE": 37.247137,
+        "LONGITUDE": -122.271032,
+        "COUNTY": "San Mateo"
+    },
+    "94061": {
+        "ZIP_CODE": 94061,
+        "POPULATION_2010": 36245,
+        "HOUSING_2010": 14010,
+        "LAND_AREA_SQ_METER": 9995762,
+        "LAND_AREA_SQ_MILES": 3.859,
+        "LATITUDE": 37.461147,
+        "LONGITUDE": -122.236948,
+        "COUNTY": "San Mateo"
+    },
+    "94062": {
+        "ZIP_CODE": 94062,
+        "POPULATION_2010": 25876,
+        "HOUSING_2010": 10547,
+        "LAND_AREA_SQ_METER": 183596898,
+        "LAND_AREA_SQ_MILES": 70.887,
+        "LATITUDE": 37.410563,
+        "LONGITUDE": -122.297142,
+        "COUNTY": "San Mateo"
+    },
+    "94063": {
+        "ZIP_CODE": 94063,
+        "POPULATION_2010": 30949,
+        "HOUSING_2010": 9175,
+        "LAND_AREA_SQ_METER": 17660779,
+        "LAND_AREA_SQ_MILES": 6.819,
+        "LATITUDE": 37.493297,
+        "LONGITUDE": -122.195525,
+        "COUNTY": "San Mateo"
+    },
+    "94065": {
+        "ZIP_CODE": 94065,
+        "POPULATION_2010": 11359,
+        "HOUSING_2010": 4943,
+        "LAND_AREA_SQ_METER": 6313332,
+        "LAND_AREA_SQ_MILES": 2.438,
+        "LATITUDE": 37.534106,
+        "LONGITUDE": -122.247372,
+        "COUNTY": "San Mateo"
+    },
+    "94066": {
+        "ZIP_CODE": 94066,
+        "POPULATION_2010": 41130,
+        "HOUSING_2010": 15360,
+        "LAND_AREA_SQ_METER": 15885106,
+        "LAND_AREA_SQ_MILES": 6.132999999999999,
+        "LATITUDE": 37.625102000000005,
+        "LONGITUDE": -122.43363000000001,
+        "COUNTY": "San Mateo"
+    },
+    "94070": {
+        "ZIP_CODE": 94070,
+        "POPULATION_2010": 29166,
+        "HOUSING_2010": 12341,
+        "LAND_AREA_SQ_METER": 15905820,
+        "LAND_AREA_SQ_MILES": 6.141,
+        "LATITUDE": 37.496461,
+        "LONGITUDE": -122.27255600000001,
+        "COUNTY": "San Mateo"
+    },
+    "94074": {
+        "ZIP_CODE": 94074,
+        "POPULATION_2010": 214,
+        "HOUSING_2010": 101,
+        "LAND_AREA_SQ_METER": 48020109,
+        "LAND_AREA_SQ_MILES": 18.541,
+        "LATITUDE": 37.331762,
+        "LONGITUDE": -122.341444,
+        "COUNTY": "San Mateo"
+    },
+    "94080": {
+        "ZIP_CODE": 94080,
+        "POPULATION_2010": 63975,
+        "HOUSING_2010": 21946,
+        "LAND_AREA_SQ_METER": 26623587,
+        "LAND_AREA_SQ_MILES": 10.279000000000002,
+        "LATITUDE": 37.65549,
+        "LONGITUDE": -122.422075,
+        "COUNTY": "San Mateo"
+    },
+    "94085": {
+        "ZIP_CODE": 94085,
+        "POPULATION_2010": 21247,
+        "HOUSING_2010": 8076,
+        "LAND_AREA_SQ_METER": 9039193,
+        "LAND_AREA_SQ_MILES": 3.49,
+        "LATITUDE": 37.388556,
+        "LONGITUDE": -122.01773999999999,
+        "COUNTY": "Santa Clara"
+    },
+    "94086": {
+        "ZIP_CODE": 94086,
+        "POPULATION_2010": 45697,
+        "HOUSING_2010": 19359,
+        "LAND_AREA_SQ_METER": 11617938,
+        "LAND_AREA_SQ_MILES": 4.486000000000001,
+        "LATITUDE": 37.371646999999996,
+        "LONGITUDE": -122.023152,
+        "COUNTY": "Santa Clara"
+    },
+    "94087": {
+        "ZIP_CODE": 94087,
+        "POPULATION_2010": 54293,
+        "HOUSING_2010": 20977,
+        "LAND_AREA_SQ_METER": 17048754,
+        "LAND_AREA_SQ_MILES": 6.582999999999999,
+        "LATITUDE": 37.351528,
+        "LONGITUDE": -122.03696200000002,
+        "COUNTY": "Santa Clara"
+    },
+    "94089": {
+        "ZIP_CODE": 94089,
+        "POPULATION_2010": 19245,
+        "HOUSING_2010": 7530,
+        "LAND_AREA_SQ_METER": 15520469,
+        "LAND_AREA_SQ_MILES": 5.992000000000001,
+        "LATITUDE": 37.412402,
+        "LONGITUDE": -122.01560500000001,
+        "COUNTY": "Santa Clara"
+    },
+    "94102": {
+        "ZIP_CODE": 94102,
+        "POPULATION_2010": 31176,
+        "HOUSING_2010": 18758,
+        "LAND_AREA_SQ_METER": 1737493,
+        "LAND_AREA_SQ_MILES": 0.6709999999999999,
+        "LATITUDE": 37.779588000000004,
+        "LONGITUDE": -122.41931799999999,
+        "COUNTY": "San Francisco"
+    },
+    "94103": {
+        "ZIP_CODE": 94103,
+        "POPULATION_2010": 27170,
+        "HOUSING_2010": 14778,
+        "LAND_AREA_SQ_METER": 3512156,
+        "LAND_AREA_SQ_MILES": 1.3559999999999999,
+        "LATITUDE": 37.773134000000006,
+        "LONGITUDE": -122.41116699999999,
+        "COUNTY": "San Francisco"
+    },
+    "94104": {
+        "ZIP_CODE": 94104,
+        "POPULATION_2010": 406,
+        "HOUSING_2010": 368,
+        "LAND_AREA_SQ_METER": 200977,
+        "LAND_AREA_SQ_MILES": 0.078,
+        "LATITUDE": 37.791409,
+        "LONGITUDE": -122.40213,
+        "COUNTY": "San Francisco"
+    },
+    "94105": {
+        "ZIP_CODE": 94105,
+        "POPULATION_2010": 5846,
+        "HOUSING_2010": 4601,
+        "LAND_AREA_SQ_METER": 956710,
+        "LAND_AREA_SQ_MILES": 0.369,
+        "LATITUDE": 37.789864,
+        "LONGITUDE": -122.39366499999998,
+        "COUNTY": "San Francisco"
+    },
+    "94107": {
+        "ZIP_CODE": 94107,
+        "POPULATION_2010": 26599,
+        "HOUSING_2010": 15141,
+        "LAND_AREA_SQ_METER": 4640746,
+        "LAND_AREA_SQ_MILES": 1.7919999999999998,
+        "LATITUDE": 37.760459999999995,
+        "LONGITUDE": -122.39972399999999,
+        "COUNTY": "San Francisco"
+    },
+    "94108": {
+        "ZIP_CODE": 94108,
+        "POPULATION_2010": 13768,
+        "HOUSING_2010": 8843,
+        "LAND_AREA_SQ_METER": 699434,
+        "LAND_AREA_SQ_MILES": 0.27,
+        "LATITUDE": 37.792007,
+        "LONGITUDE": -122.408575,
+        "COUNTY": "San Francisco"
+    },
+    "94109": {
+        "ZIP_CODE": 94109,
+        "POPULATION_2010": 55984,
+        "HOUSING_2010": 37182,
+        "LAND_AREA_SQ_METER": 3076630,
+        "LAND_AREA_SQ_MILES": 1.188,
+        "LATITUDE": 37.795388,
+        "LONGITUDE": -122.422453,
+        "COUNTY": "San Francisco"
+    },
+    "94110": {
+        "ZIP_CODE": 94110,
+        "POPULATION_2010": 69333,
+        "HOUSING_2010": 28913,
+        "LAND_AREA_SQ_METER": 6022589,
+        "LAND_AREA_SQ_MILES": 2.325,
+        "LATITUDE": 37.750021000000004,
+        "LONGITUDE": -122.415201,
+        "COUNTY": "San Francisco"
+    },
+    "94111": {
+        "ZIP_CODE": 94111,
+        "POPULATION_2010": 3713,
+        "HOUSING_2010": 2811,
+        "LAND_AREA_SQ_METER": 891185,
+        "LAND_AREA_SQ_MILES": 0.344,
+        "LATITUDE": 37.799367,
+        "LONGITUDE": -122.398407,
+        "COUNTY": "San Francisco"
+    },
+    "94112": {
+        "ZIP_CODE": 94112,
+        "POPULATION_2010": 79407,
+        "HOUSING_2010": 23081,
+        "LAND_AREA_SQ_METER": 8712507,
+        "LAND_AREA_SQ_MILES": 3.364,
+        "LATITUDE": 37.720375,
+        "LONGITUDE": -122.44295,
+        "COUNTY": "San Francisco"
+    },
+    "94114": {
+        "ZIP_CODE": 94114,
+        "POPULATION_2010": 31124,
+        "HOUSING_2010": 17634,
+        "LAND_AREA_SQ_METER": 3691502,
+        "LAND_AREA_SQ_MILES": 1.425,
+        "LATITUDE": 37.758057,
+        "LONGITUDE": -122.43541,
+        "COUNTY": "San Francisco"
+    },
+    "94115": {
+        "ZIP_CODE": 94115,
+        "POPULATION_2010": 33021,
+        "HOUSING_2010": 18884,
+        "LAND_AREA_SQ_METER": 2889747,
+        "LAND_AREA_SQ_MILES": 1.1159999999999999,
+        "LATITUDE": 37.785969,
+        "LONGITUDE": -122.437253,
+        "COUNTY": "San Francisco"
+    },
+    "94116": {
+        "ZIP_CODE": 94116,
+        "POPULATION_2010": 43698,
+        "HOUSING_2010": 16283,
+        "LAND_AREA_SQ_METER": 6696583,
+        "LAND_AREA_SQ_MILES": 2.5860000000000003,
+        "LATITUDE": 37.745399,
+        "LONGITUDE": -122.486065,
+        "COUNTY": "San Francisco"
+    },
+    "94117": {
+        "ZIP_CODE": 94117,
+        "POPULATION_2010": 39169,
+        "HOUSING_2010": 19255,
+        "LAND_AREA_SQ_METER": 4370658,
+        "LAND_AREA_SQ_MILES": 1.6880000000000002,
+        "LATITUDE": 37.769436,
+        "LONGITUDE": -122.44766200000001,
+        "COUNTY": "San Francisco"
+    },
+    "94118": {
+        "ZIP_CODE": 94118,
+        "POPULATION_2010": 38319,
+        "HOUSING_2010": 18633,
+        "LAND_AREA_SQ_METER": 5047351,
+        "LAND_AREA_SQ_MILES": 1.949,
+        "LATITUDE": 37.780097,
+        "LONGITUDE": -122.46260500000001,
+        "COUNTY": "San Francisco"
+    },
+    "94121": {
+        "ZIP_CODE": 94121,
+        "POPULATION_2010": 41203,
+        "HOUSING_2010": 18787,
+        "LAND_AREA_SQ_METER": 7981770,
+        "LAND_AREA_SQ_MILES": 3.082,
+        "LATITUDE": 37.776769,
+        "LONGITUDE": -122.494707,
+        "COUNTY": "San Francisco"
+    },
+    "94122": {
+        "ZIP_CODE": 94122,
+        "POPULATION_2010": 56023,
+        "HOUSING_2010": 23633,
+        "LAND_AREA_SQ_METER": 6122506,
+        "LAND_AREA_SQ_MILES": 2.364,
+        "LATITUDE": 37.758796999999994,
+        "LONGITUDE": -122.485128,
+        "COUNTY": "San Francisco"
+    },
+    "94123": {
+        "ZIP_CODE": 94123,
+        "POPULATION_2010": 23088,
+        "HOUSING_2010": 15083,
+        "LAND_AREA_SQ_METER": 2643367,
+        "LAND_AREA_SQ_MILES": 1.021,
+        "LATITUDE": 37.800934000000005,
+        "LONGITUDE": -122.43836599999999,
+        "COUNTY": "San Francisco"
+    },
+    "94124": {
+        "ZIP_CODE": 94124,
+        "POPULATION_2010": 33996,
+        "HOUSING_2010": 10812,
+        "LAND_AREA_SQ_METER": 12759593,
+        "LAND_AREA_SQ_MILES": 4.927,
+        "LATITUDE": 37.728895,
+        "LONGITUDE": -122.382779,
+        "COUNTY": "San Francisco"
+    },
+    "94127": {
+        "ZIP_CODE": 94127,
+        "POPULATION_2010": 19289,
+        "HOUSING_2010": 7801,
+        "LAND_AREA_SQ_METER": 4585465,
+        "LAND_AREA_SQ_MILES": 1.77,
+        "LATITUDE": 37.73622,
+        "LONGITUDE": -122.45933799999999,
+        "COUNTY": "San Francisco"
+    },
+    "94128": {
+        "ZIP_CODE": 94128,
+        "POPULATION_2010": 69,
+        "HOUSING_2010": 0,
+        "LAND_AREA_SQ_METER": 9108453,
+        "LAND_AREA_SQ_MILES": 3.517,
+        "LATITUDE": 37.626369,
+        "LONGITUDE": -122.385694,
+        "COUNTY": "San Mateo"
+    },
+    "94129": {
+        "ZIP_CODE": 94129,
+        "POPULATION_2010": 3183,
+        "HOUSING_2010": 1132,
+        "LAND_AREA_SQ_METER": 5968616,
+        "LAND_AREA_SQ_MILES": 2.3040000000000003,
+        "LATITUDE": 37.797336,
+        "LONGITUDE": -122.46446200000001,
+        "COUNTY": "San Francisco"
+    },
+    "94130": {
+        "ZIP_CODE": 94130,
+        "POPULATION_2010": 2880,
+        "HOUSING_2010": 786,
+        "LAND_AREA_SQ_METER": 2333737,
+        "LAND_AREA_SQ_MILES": 0.9009999999999999,
+        "LATITUDE": 37.820894,
+        "LONGITUDE": -122.369725,
+        "COUNTY": "San Francisco"
+    },
+    "94131": {
+        "ZIP_CODE": 94131,
+        "POPULATION_2010": 26881,
+        "HOUSING_2010": 13427,
+        "LAND_AREA_SQ_METER": 5386048,
+        "LAND_AREA_SQ_MILES": 2.08,
+        "LATITUDE": 37.745915999999994,
+        "LONGITUDE": -122.44147199999999,
+        "COUNTY": "San Francisco"
+    },
+    "94132": {
+        "ZIP_CODE": 94132,
+        "POPULATION_2010": 28129,
+        "HOUSING_2010": 10769,
+        "LAND_AREA_SQ_METER": 8055033,
+        "LAND_AREA_SQ_MILES": 3.11,
+        "LATITUDE": 37.721969,
+        "LONGITUDE": -122.48416599999999,
+        "COUNTY": "San Francisco"
+    },
+    "94133": {
+        "ZIP_CODE": 94133,
+        "POPULATION_2010": 26237,
+        "HOUSING_2010": 15197,
+        "LAND_AREA_SQ_METER": 1955574,
+        "LAND_AREA_SQ_MILES": 0.755,
+        "LATITUDE": 37.804531,
+        "LONGITUDE": -122.410852,
+        "COUNTY": "San Francisco"
+    },
+    "94134": {
+        "ZIP_CODE": 94134,
+        "POPULATION_2010": 40798,
+        "HOUSING_2010": 11867,
+        "LAND_AREA_SQ_METER": 6215356,
+        "LAND_AREA_SQ_MILES": 2.4,
+        "LATITUDE": 37.721052,
+        "LONGITUDE": -122.413573,
+        "COUNTY": "San Francisco"
+    },
+    "94158": {
+        "ZIP_CODE": 94158,
+        "POPULATION_2010": 4792,
+        "HOUSING_2010": 2482,
+        "LAND_AREA_SQ_METER": 1702946,
+        "LAND_AREA_SQ_MILES": 0.6579999999999999,
+        "LATITUDE": 37.768106,
+        "LONGITUDE": -122.386927,
+        "COUNTY": "San Francisco"
+    },
+    "94301": {
+        "ZIP_CODE": 94301,
+        "POPULATION_2010": 16995,
+        "HOUSING_2010": 8109,
+        "LAND_AREA_SQ_METER": 6146453,
+        "LAND_AREA_SQ_MILES": 2.373,
+        "LATITUDE": 37.444122,
+        "LONGITUDE": -122.149915,
+        "COUNTY": "Santa Clara"
+    },
+    "94303": {
+        "ZIP_CODE": 94303,
+        "POPULATION_2010": 45467,
+        "HOUSING_2010": 14551,
+        "LAND_AREA_SQ_METER": 20623192,
+        "LAND_AREA_SQ_MILES": 7.962999999999999,
+        "LATITUDE": 37.458090000000006,
+        "LONGITUDE": -122.115398,
+        "COUNTY": "Santa Clara"
+    },
+    "94304": {
+        "ZIP_CODE": 94304,
+        "POPULATION_2010": 3627,
+        "HOUSING_2010": 2130,
+        "LAND_AREA_SQ_METER": 16830141,
+        "LAND_AREA_SQ_MILES": 6.497999999999999,
+        "LATITUDE": 37.374707,
+        "LONGITUDE": -122.181697,
+        "COUNTY": "Santa Clara"
+    },
+    "94305": {
+        "ZIP_CODE": 94305,
+        "POPULATION_2010": 13862,
+        "HOUSING_2010": 4020,
+        "LAND_AREA_SQ_METER": 13280359,
+        "LAND_AREA_SQ_MILES": 5.127999999999999,
+        "LATITUDE": 37.41794,
+        "LONGITUDE": -122.17147,
+        "COUNTY": "Santa Clara"
+    },
+    "94306": {
+        "ZIP_CODE": 94306,
+        "POPULATION_2010": 26469,
+        "HOUSING_2010": 11243,
+        "LAND_AREA_SQ_METER": 10843552,
+        "LAND_AREA_SQ_MILES": 4.187,
+        "LATITUDE": 37.415727000000004,
+        "LONGITUDE": -122.130765,
+        "COUNTY": "Santa Clara"
+    },
+    "94401": {
+        "ZIP_CODE": 94401,
+        "POPULATION_2010": 34429,
+        "HOUSING_2010": 13518,
+        "LAND_AREA_SQ_METER": 8148342,
+        "LAND_AREA_SQ_MILES": 3.1460000000000004,
+        "LATITUDE": 37.576948,
+        "LONGITUDE": -122.316903,
+        "COUNTY": "San Mateo"
+    },
+    "94402": {
+        "ZIP_CODE": 94402,
+        "POPULATION_2010": 23981,
+        "HOUSING_2010": 9804,
+        "LAND_AREA_SQ_METER": 12589400,
+        "LAND_AREA_SQ_MILES": 4.861000000000001,
+        "LATITUDE": 37.523688,
+        "LONGITUDE": -122.344932,
+        "COUNTY": "San Mateo"
+    },
+    "94403": {
+        "ZIP_CODE": 94403,
+        "POPULATION_2010": 39642,
+        "HOUSING_2010": 16371,
+        "LAND_AREA_SQ_METER": 14584661,
+        "LAND_AREA_SQ_MILES": 5.631,
+        "LATITUDE": 37.538449,
+        "LONGITUDE": -122.305447,
+        "COUNTY": "San Mateo"
+    },
+    "94404": {
+        "ZIP_CODE": 94404,
+        "POPULATION_2010": 33749,
+        "HOUSING_2010": 14246,
+        "LAND_AREA_SQ_METER": 11032640,
+        "LAND_AREA_SQ_MILES": 4.26,
+        "LATITUDE": 37.555999,
+        "LONGITUDE": -122.267679,
+        "COUNTY": "San Mateo"
+    },
+    "94501": {
+        "ZIP_CODE": 94501,
+        "POPULATION_2010": 60212,
+        "HOUSING_2010": 27087,
+        "LAND_AREA_SQ_METER": 20539466,
+        "LAND_AREA_SQ_MILES": 7.93,
+        "LATITUDE": 37.773796999999995,
+        "LONGITUDE": -122.278123,
+        "COUNTY": "Alameda"
+    },
+    "94502": {
+        "ZIP_CODE": 94502,
+        "POPULATION_2010": 13600,
+        "HOUSING_2010": 5264,
+        "LAND_AREA_SQ_METER": 6942292,
+        "LAND_AREA_SQ_MILES": 2.68,
+        "LATITUDE": 37.737572,
+        "LONGITUDE": -122.245507,
+        "COUNTY": "Alameda"
+    },
+    "94503": {
+        "ZIP_CODE": 94503,
+        "POPULATION_2010": 19681,
+        "HOUSING_2010": 6064,
+        "LAND_AREA_SQ_METER": 33556323,
+        "LAND_AREA_SQ_MILES": 12.956,
+        "LATITUDE": 38.186535,
+        "LONGITUDE": -122.26456499999999,
+        "COUNTY": "Napa"
+    },
+    "94505": {
+        "ZIP_CODE": 94505,
+        "POPULATION_2010": 13403,
+        "HOUSING_2010": 5452,
+        "LAND_AREA_SQ_METER": 42133370,
+        "LAND_AREA_SQ_MILES": 16.268,
+        "LATITUDE": 37.871707,
+        "LONGITUDE": -121.596957,
+        "COUNTY": "Contra Costa"
+    },
+    "94506": {
+        "ZIP_CODE": 94506,
+        "POPULATION_2010": 22452,
+        "HOUSING_2010": 7788,
+        "LAND_AREA_SQ_METER": 48664719,
+        "LAND_AREA_SQ_MILES": 18.79,
+        "LATITUDE": 37.809418,
+        "LONGITUDE": -121.912929,
+        "COUNTY": "Contra Costa"
+    },
+    "94507": {
+        "ZIP_CODE": 94507,
+        "POPULATION_2010": 14889,
+        "HOUSING_2010": 5528,
+        "LAND_AREA_SQ_METER": 32888775,
+        "LAND_AREA_SQ_MILES": 12.698,
+        "LATITUDE": 37.850398999999996,
+        "LONGITUDE": -122.02111299999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94508": {
+        "ZIP_CODE": 94508,
+        "POPULATION_2010": 3661,
+        "HOUSING_2010": 1213,
+        "LAND_AREA_SQ_METER": 45184656,
+        "LAND_AREA_SQ_MILES": 17.445999999999998,
+        "LATITUDE": 38.576617999999996,
+        "LONGITUDE": -122.44438799999999,
+        "COUNTY": "Napa"
+    },
+    "94509": {
+        "ZIP_CODE": 94509,
+        "POPULATION_2010": 62439,
+        "HOUSING_2010": 22500,
+        "LAND_AREA_SQ_METER": 42552559,
+        "LAND_AREA_SQ_MILES": 16.43,
+        "LATITUDE": 37.996501,
+        "LONGITUDE": -121.812301,
+        "COUNTY": "Contra Costa"
+    },
+    "94510": {
+        "ZIP_CODE": 94510,
+        "POPULATION_2010": 27088,
+        "HOUSING_2010": 11338,
+        "LAND_AREA_SQ_METER": 72389963,
+        "LAND_AREA_SQ_MILES": 27.95,
+        "LATITUDE": 38.098071000000004,
+        "LONGITUDE": -122.13593999999999,
+        "COUNTY": "Solano"
+    },
+    "94511": {
+        "ZIP_CODE": 94511,
+        "POPULATION_2010": 2137,
+        "HOUSING_2010": 1327,
+        "LAND_AREA_SQ_METER": 14411147,
+        "LAND_AREA_SQ_MILES": 5.564,
+        "LATITUDE": 38.029003,
+        "LONGITUDE": -121.64056599999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94512": {
+        "ZIP_CODE": 94512,
+        "POPULATION_2010": 108,
+        "HOUSING_2010": 41,
+        "LAND_AREA_SQ_METER": 52217895,
+        "LAND_AREA_SQ_MILES": 20.160999999999998,
+        "LATITUDE": 38.134852,
+        "LONGITUDE": -121.83415600000001,
+        "COUNTY": "Solano"
+    },
+    "94513": {
+        "ZIP_CODE": 94513,
+        "POPULATION_2010": 54605,
+        "HOUSING_2010": 18644,
+        "LAND_AREA_SQ_METER": 195948049,
+        "LAND_AREA_SQ_MILES": 75.656,
+        "LATITUDE": 37.922228000000004,
+        "LONGITUDE": -121.66835900000001,
+        "COUNTY": "Contra Costa"
+    },
+    "94514": {
+        "ZIP_CODE": 94514,
+        "POPULATION_2010": 1360,
+        "HOUSING_2010": 468,
+        "LAND_AREA_SQ_METER": 74350346,
+        "LAND_AREA_SQ_MILES": 28.706999999999997,
+        "LATITUDE": 37.826372,
+        "LONGITUDE": -121.622546,
+        "COUNTY": "Contra Costa"
+    },
+    "94515": {
+        "ZIP_CODE": 94515,
+        "POPULATION_2010": 7050,
+        "HOUSING_2010": 3517,
+        "LAND_AREA_SQ_METER": 273632265,
+        "LAND_AREA_SQ_MILES": 105.65,
+        "LATITUDE": 38.634822,
+        "LONGITUDE": -122.615051,
+        "COUNTY": "Sonoma"
+    },
+    "94516": {
+        "ZIP_CODE": 94516,
+        "POPULATION_2010": 211,
+        "HOUSING_2010": 91,
+        "LAND_AREA_SQ_METER": 2264979,
+        "LAND_AREA_SQ_MILES": 0.875,
+        "LATITUDE": 37.833901000000004,
+        "LONGITUDE": -122.165034,
+        "COUNTY": "Contra Costa"
+    },
+    "94517": {
+        "ZIP_CODE": 94517,
+        "POPULATION_2010": 12385,
+        "HOUSING_2010": 4662,
+        "LAND_AREA_SQ_METER": 148195672,
+        "LAND_AREA_SQ_MILES": 57.218999999999994,
+        "LATITUDE": 37.890221000000004,
+        "LONGITUDE": -121.878359,
+        "COUNTY": "Contra Costa"
+    },
+    "94518": {
+        "ZIP_CODE": 94518,
+        "POPULATION_2010": 26778,
+        "HOUSING_2010": 10638,
+        "LAND_AREA_SQ_METER": 14081235,
+        "LAND_AREA_SQ_MILES": 5.437,
+        "LATITUDE": 37.950359000000006,
+        "LONGITUDE": -122.022034,
+        "COUNTY": "Contra Costa"
+    },
+    "94519": {
+        "ZIP_CODE": 94519,
+        "POPULATION_2010": 18453,
+        "HOUSING_2010": 7246,
+        "LAND_AREA_SQ_METER": 11323357,
+        "LAND_AREA_SQ_MILES": 4.372,
+        "LATITUDE": 37.988459999999996,
+        "LONGITUDE": -122.01303999999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94520": {
+        "ZIP_CODE": 94520,
+        "POPULATION_2010": 37208,
+        "HOUSING_2010": 13601,
+        "LAND_AREA_SQ_METER": 26130104,
+        "LAND_AREA_SQ_MILES": 10.089,
+        "LATITUDE": 37.995283,
+        "LONGITUDE": -122.040624,
+        "COUNTY": "Contra Costa"
+    },
+    "94521": {
+        "ZIP_CODE": 94521,
+        "POPULATION_2010": 41249,
+        "HOUSING_2010": 16269,
+        "LAND_AREA_SQ_METER": 33572538,
+        "LAND_AREA_SQ_MILES": 12.962,
+        "LATITUDE": 37.956008000000004,
+        "LONGITUDE": -121.956195,
+        "COUNTY": "Contra Costa"
+    },
+    "94523": {
+        "ZIP_CODE": 94523,
+        "POPULATION_2010": 33569,
+        "HOUSING_2010": 14505,
+        "LAND_AREA_SQ_METER": 18738956,
+        "LAND_AREA_SQ_MILES": 7.235,
+        "LATITUDE": 37.954141,
+        "LONGITUDE": -122.076124,
+        "COUNTY": "Contra Costa"
+    },
+    "94525": {
+        "ZIP_CODE": 94525,
+        "POPULATION_2010": 3127,
+        "HOUSING_2010": 1664,
+        "LAND_AREA_SQ_METER": 6093356,
+        "LAND_AREA_SQ_MILES": 2.353,
+        "LATITUDE": 38.052951,
+        "LONGITUDE": -122.23209399999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94526": {
+        "ZIP_CODE": 94526,
+        "POPULATION_2010": 31102,
+        "HOUSING_2010": 12218,
+        "LAND_AREA_SQ_METER": 38668323,
+        "LAND_AREA_SQ_MILES": 14.93,
+        "LATITUDE": 37.814613,
+        "LONGITUDE": -121.99055200000001,
+        "COUNTY": "Contra Costa"
+    },
+    "94528": {
+        "ZIP_CODE": 94528,
+        "POPULATION_2010": 964,
+        "HOUSING_2010": 393,
+        "LAND_AREA_SQ_METER": 6072659,
+        "LAND_AREA_SQ_MILES": 2.345,
+        "LATITUDE": 37.845601,
+        "LONGITUDE": -121.950612,
+        "COUNTY": "Contra Costa"
+    },
+    "94530": {
+        "ZIP_CODE": 94530,
+        "POPULATION_2010": 23877,
+        "HOUSING_2010": 10914,
+        "LAND_AREA_SQ_METER": 12506021,
+        "LAND_AREA_SQ_MILES": 4.829,
+        "LATITUDE": 37.921552,
+        "LONGITUDE": -122.29834699999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94531": {
+        "ZIP_CODE": 94531,
+        "POPULATION_2010": 40290,
+        "HOUSING_2010": 12494,
+        "LAND_AREA_SQ_METER": 28373833,
+        "LAND_AREA_SQ_MILES": 10.955,
+        "LATITUDE": 37.965782,
+        "LONGITUDE": -121.77583,
+        "COUNTY": "Contra Costa"
+    },
+    "94533": {
+        "ZIP_CODE": 94533,
+        "POPULATION_2010": 69277,
+        "HOUSING_2010": 24359,
+        "LAND_AREA_SQ_METER": 55951716,
+        "LAND_AREA_SQ_MILES": 21.603,
+        "LATITUDE": 38.280863000000004,
+        "LONGITUDE": -122.006681,
+        "COUNTY": "Solano"
+    },
+    "94534": {
+        "ZIP_CODE": 94534,
+        "POPULATION_2010": 36416,
+        "HOUSING_2010": 13331,
+        "LAND_AREA_SQ_METER": 205029594,
+        "LAND_AREA_SQ_MILES": 79.16199999999999,
+        "LATITUDE": 38.244889,
+        "LONGITUDE": -122.13586200000002,
+        "COUNTY": "Solano"
+    },
+    "94535": {
+        "ZIP_CODE": 94535,
+        "POPULATION_2010": 3793,
+        "HOUSING_2010": 1238,
+        "LAND_AREA_SQ_METER": 9871382,
+        "LAND_AREA_SQ_MILES": 3.8110000000000004,
+        "LATITUDE": 38.282221,
+        "LONGITUDE": -121.92471499999999,
+        "COUNTY": "Solano"
+    },
+    "94536": {
+        "ZIP_CODE": 94536,
+        "POPULATION_2010": 68790,
+        "HOUSING_2010": 25068,
+        "LAND_AREA_SQ_METER": 37767267,
+        "LAND_AREA_SQ_MILES": 14.582,
+        "LATITUDE": 37.570508000000004,
+        "LONGITUDE": -121.98125,
+        "COUNTY": "Alameda"
+    },
+    "94538": {
+        "ZIP_CODE": 94538,
+        "POPULATION_2010": 61148,
+        "HOUSING_2010": 21739,
+        "LAND_AREA_SQ_METER": 42636278,
+        "LAND_AREA_SQ_MILES": 16.462,
+        "LATITUDE": 37.505767999999996,
+        "LONGITUDE": -121.96247199999999,
+        "COUNTY": "Alameda"
+    },
+    "94539": {
+        "ZIP_CODE": 94539,
+        "POPULATION_2010": 50031,
+        "HOUSING_2010": 16100,
+        "LAND_AREA_SQ_METER": 65831999,
+        "LAND_AREA_SQ_MILES": 25.418000000000003,
+        "LATITUDE": 37.516909999999996,
+        "LONGITUDE": -121.911763,
+        "COUNTY": "Alameda"
+    },
+    "94541": {
+        "ZIP_CODE": 94541,
+        "POPULATION_2010": 61635,
+        "HOUSING_2010": 21989,
+        "LAND_AREA_SQ_METER": 19243298,
+        "LAND_AREA_SQ_MILES": 7.43,
+        "LATITUDE": 37.673946,
+        "LONGITUDE": -122.08482,
+        "COUNTY": "Alameda"
+    },
+    "94542": {
+        "ZIP_CODE": 94542,
+        "POPULATION_2010": 12717,
+        "HOUSING_2010": 4595,
+        "LAND_AREA_SQ_METER": 14773416,
+        "LAND_AREA_SQ_MILES": 5.704,
+        "LATITUDE": 37.659883,
+        "LONGITUDE": -122.03714199999999,
+        "COUNTY": "Alameda"
+    },
+    "94544": {
+        "ZIP_CODE": 94544,
+        "POPULATION_2010": 73026,
+        "HOUSING_2010": 23308,
+        "LAND_AREA_SQ_METER": 28378433,
+        "LAND_AREA_SQ_MILES": 10.957,
+        "LATITUDE": 37.63382,
+        "LONGITUDE": -122.0572,
+        "COUNTY": "Alameda"
+    },
+    "94545": {
+        "ZIP_CODE": 94545,
+        "POPULATION_2010": 29707,
+        "HOUSING_2010": 9477,
+        "LAND_AREA_SQ_METER": 55787089,
+        "LAND_AREA_SQ_MILES": 21.54,
+        "LATITUDE": 37.605905,
+        "LONGITUDE": -122.126873,
+        "COUNTY": "Alameda"
+    },
+    "94546": {
+        "ZIP_CODE": 94546,
+        "POPULATION_2010": 42209,
+        "HOUSING_2010": 16929,
+        "LAND_AREA_SQ_METER": 24404738,
+        "LAND_AREA_SQ_MILES": 9.423,
+        "LATITUDE": 37.714509,
+        "LONGITUDE": -122.07954199999999,
+        "COUNTY": "Alameda"
+    },
+    "94547": {
+        "ZIP_CODE": 94547,
+        "POPULATION_2010": 24092,
+        "HOUSING_2010": 8569,
+        "LAND_AREA_SQ_METER": 14095493,
+        "LAND_AREA_SQ_MILES": 5.442,
+        "LATITUDE": 38.009937,
+        "LONGITUDE": -122.26185100000001,
+        "COUNTY": "Contra Costa"
+    },
+    "94548": {
+        "ZIP_CODE": 94548,
+        "POPULATION_2010": 412,
+        "HOUSING_2010": 172,
+        "LAND_AREA_SQ_METER": 7157010,
+        "LAND_AREA_SQ_MILES": 2.763,
+        "LATITUDE": 37.974295,
+        "LONGITUDE": -121.65144099999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94549": {
+        "ZIP_CODE": 94549,
+        "POPULATION_2010": 26864,
+        "HOUSING_2010": 10896,
+        "LAND_AREA_SQ_METER": 49746404,
+        "LAND_AREA_SQ_MILES": 19.207,
+        "LATITUDE": 37.897009000000004,
+        "LONGITUDE": -122.11429199999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94550": {
+        "ZIP_CODE": 94550,
+        "POPULATION_2010": 46896,
+        "HOUSING_2010": 17858,
+        "LAND_AREA_SQ_METER": 602772633,
+        "LAND_AREA_SQ_MILES": 232.732,
+        "LATITUDE": 37.526661,
+        "LONGITUDE": -121.58339099999999,
+        "COUNTY": "Santa Clara"
+    },
+    "94551": {
+        "ZIP_CODE": 94551,
+        "POPULATION_2010": 36867,
+        "HOUSING_2010": 13566,
+        "LAND_AREA_SQ_METER": 204389976,
+        "LAND_AREA_SQ_MILES": 78.915,
+        "LATITUDE": 37.750502000000004,
+        "LONGITUDE": -121.749055,
+        "COUNTY": "Contra Costa"
+    },
+    "94552": {
+        "ZIP_CODE": 94552,
+        "POPULATION_2010": 14454,
+        "HOUSING_2010": 5067,
+        "LAND_AREA_SQ_METER": 116286622,
+        "LAND_AREA_SQ_MILES": 44.898999999999994,
+        "LATITUDE": 37.72272,
+        "LONGITUDE": -122.021552,
+        "COUNTY": "Alameda"
+    },
+    "94553": {
+        "ZIP_CODE": 94553,
+        "POPULATION_2010": 47065,
+        "HOUSING_2010": 19581,
+        "LAND_AREA_SQ_METER": 126758554,
+        "LAND_AREA_SQ_MILES": 48.942,
+        "LATITUDE": 37.993891999999995,
+        "LONGITUDE": -122.13644099999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94555": {
+        "ZIP_CODE": 94555,
+        "POPULATION_2010": 34143,
+        "HOUSING_2010": 11096,
+        "LAND_AREA_SQ_METER": 30070498,
+        "LAND_AREA_SQ_MILES": 11.61,
+        "LATITUDE": 37.548123,
+        "LONGITUDE": -122.09863500000002,
+        "COUNTY": "Alameda"
+    },
+    "94556": {
+        "ZIP_CODE": 94556,
+        "POPULATION_2010": 15229,
+        "HOUSING_2010": 5817,
+        "LAND_AREA_SQ_METER": 31722307,
+        "LAND_AREA_SQ_MILES": 12.248,
+        "LATITUDE": 37.840669,
+        "LONGITUDE": -122.11493600000001,
+        "COUNTY": "Contra Costa"
+    },
+    "94558": {
+        "ZIP_CODE": 94558,
+        "POPULATION_2010": 66830,
+        "HOUSING_2010": 27133,
+        "LAND_AREA_SQ_METER": 921414306,
+        "LAND_AREA_SQ_MILES": 355.76,
+        "LATITUDE": 38.442011,
+        "LONGITUDE": -122.23832,
+        "COUNTY": "Napa"
+    },
+    "94559": {
+        "ZIP_CODE": 94559,
+        "POPULATION_2010": 27184,
+        "HOUSING_2010": 11014,
+        "LAND_AREA_SQ_METER": 94910435,
+        "LAND_AREA_SQ_MILES": 36.645,
+        "LATITUDE": 38.245729,
+        "LONGITUDE": -122.313395,
+        "COUNTY": "Napa"
+    },
+    "94560": {
+        "ZIP_CODE": 94560,
+        "POPULATION_2010": 42573,
+        "HOUSING_2010": 13414,
+        "LAND_AREA_SQ_METER": 35757865,
+        "LAND_AREA_SQ_MILES": 13.806,
+        "LATITUDE": 37.504141,
+        "LONGITUDE": -122.03235900000001,
+        "COUNTY": "Alameda"
+    },
+    "94561": {
+        "ZIP_CODE": 94561,
+        "POPULATION_2010": 36515,
+        "HOUSING_2010": 12080,
+        "LAND_AREA_SQ_METER": 43839147,
+        "LAND_AREA_SQ_MILES": 16.926,
+        "LATITUDE": 37.993936,
+        "LONGITUDE": -121.69113899999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94563": {
+        "ZIP_CODE": 94563,
+        "POPULATION_2010": 17672,
+        "HOUSING_2010": 6816,
+        "LAND_AREA_SQ_METER": 44713551,
+        "LAND_AREA_SQ_MILES": 17.264,
+        "LATITUDE": 37.879921,
+        "LONGITUDE": -122.184572,
+        "COUNTY": "Contra Costa"
+    },
+    "94564": {
+        "ZIP_CODE": 94564,
+        "POPULATION_2010": 18287,
+        "HOUSING_2010": 7127,
+        "LAND_AREA_SQ_METER": 14477578,
+        "LAND_AREA_SQ_MILES": 5.59,
+        "LATITUDE": 37.994038,
+        "LONGITUDE": -122.28258899999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94565": {
+        "ZIP_CODE": 94565,
+        "POPULATION_2010": 84641,
+        "HOUSING_2010": 27897,
+        "LAND_AREA_SQ_METER": 78214477,
+        "LAND_AREA_SQ_MILES": 30.199,
+        "LATITUDE": 38.014576,
+        "LONGITUDE": -121.906255,
+        "COUNTY": "Contra Costa"
+    },
+    "94566": {
+        "ZIP_CODE": 94566,
+        "POPULATION_2010": 40884,
+        "HOUSING_2010": 15329,
+        "LAND_AREA_SQ_METER": 50788269,
+        "LAND_AREA_SQ_MILES": 19.609,
+        "LATITUDE": 37.648118,
+        "LONGITUDE": -121.849958,
+        "COUNTY": "Alameda"
+    },
+    "94567": {
+        "ZIP_CODE": 94567,
+        "POPULATION_2010": 623,
+        "HOUSING_2010": 312,
+        "LAND_AREA_SQ_METER": 340358151,
+        "LAND_AREA_SQ_MILES": 131.41299999999998,
+        "LATITUDE": 38.706906,
+        "LONGITUDE": -122.393997,
+        "COUNTY": "Napa"
+    },
+    "94568": {
+        "ZIP_CODE": 94568,
+        "POPULATION_2010": 46016,
+        "HOUSING_2010": 15773,
+        "LAND_AREA_SQ_METER": 39588086,
+        "LAND_AREA_SQ_MILES": 15.285,
+        "LATITUDE": 37.717399,
+        "LONGITUDE": -121.913048,
+        "COUNTY": "Alameda"
+    },
+    "94569": {
+        "ZIP_CODE": 94569,
+        "POPULATION_2010": 198,
+        "HOUSING_2010": 115,
+        "LAND_AREA_SQ_METER": 6127472,
+        "LAND_AREA_SQ_MILES": 2.366,
+        "LATITUDE": 38.044258,
+        "LONGITUDE": -122.198765,
+        "COUNTY": "Contra Costa"
+    },
+    "94571": {
+        "ZIP_CODE": 94571,
+        "POPULATION_2010": 7911,
+        "HOUSING_2010": 4149,
+        "LAND_AREA_SQ_METER": 304636842,
+        "LAND_AREA_SQ_MILES": 117.62100000000001,
+        "LATITUDE": 38.148862,
+        "LONGITUDE": -121.737696,
+        "COUNTY": "Solano"
+    },
+    "94572": {
+        "ZIP_CODE": 94572,
+        "POPULATION_2010": 8684,
+        "HOUSING_2010": 3130,
+        "LAND_AREA_SQ_METER": 11244845,
+        "LAND_AREA_SQ_MILES": 4.342,
+        "LATITUDE": 38.032719,
+        "LONGITUDE": -122.252247,
+        "COUNTY": "Contra Costa"
+    },
+    "94573": {
+        "ZIP_CODE": 94573,
+        "POPULATION_2010": 94,
+        "HOUSING_2010": 53,
+        "LAND_AREA_SQ_METER": 2577621,
+        "LAND_AREA_SQ_MILES": 0.995,
+        "LATITUDE": 38.458864,
+        "LONGITUDE": -122.428831,
+        "COUNTY": "Napa"
+    },
+    "94574": {
+        "ZIP_CODE": 94574,
+        "POPULATION_2010": 8742,
+        "HOUSING_2010": 4406,
+        "LAND_AREA_SQ_METER": 330994478,
+        "LAND_AREA_SQ_MILES": 127.79799999999999,
+        "LATITUDE": 38.542448,
+        "LONGITUDE": -122.419923,
+        "COUNTY": "Napa"
+    },
+    "94575": {
+        "ZIP_CODE": 94575,
+        "POPULATION_2010": 974,
+        "HOUSING_2010": 1,
+        "LAND_AREA_SQ_METER": 433794,
+        "LAND_AREA_SQ_MILES": 0.16699999999999998,
+        "LATITUDE": 37.840961,
+        "LONGITUDE": -122.109502,
+        "COUNTY": "Contra Costa"
+    },
+    "94576": {
+        "ZIP_CODE": 94576,
+        "POPULATION_2010": 164,
+        "HOUSING_2010": 84,
+        "LAND_AREA_SQ_METER": 956949,
+        "LAND_AREA_SQ_MILES": 0.369,
+        "LATITUDE": 38.549425,
+        "LONGITUDE": -122.47638300000001,
+        "COUNTY": "Napa"
+    },
+    "94577": {
+        "ZIP_CODE": 94577,
+        "POPULATION_2010": 45560,
+        "HOUSING_2010": 17714,
+        "LAND_AREA_SQ_METER": 21107125,
+        "LAND_AREA_SQ_MILES": 8.15,
+        "LATITUDE": 37.713275,
+        "LONGITUDE": -122.16735,
+        "COUNTY": "Alameda"
+    },
+    "94578": {
+        "ZIP_CODE": 94578,
+        "POPULATION_2010": 38558,
+        "HOUSING_2010": 14808,
+        "LAND_AREA_SQ_METER": 11406269,
+        "LAND_AREA_SQ_MILES": 4.404,
+        "LATITUDE": 37.706137,
+        "LONGITUDE": -122.125551,
+        "COUNTY": "Alameda"
+    },
+    "94579": {
+        "ZIP_CODE": 94579,
+        "POPULATION_2010": 20571,
+        "HOUSING_2010": 7019,
+        "LAND_AREA_SQ_METER": 8113265,
+        "LAND_AREA_SQ_MILES": 3.133,
+        "LATITUDE": 37.686491,
+        "LONGITUDE": -122.157201,
+        "COUNTY": "Alameda"
+    },
+    "94580": {
+        "ZIP_CODE": 94580,
+        "POPULATION_2010": 27152,
+        "HOUSING_2010": 8958,
+        "LAND_AREA_SQ_METER": 8929836,
+        "LAND_AREA_SQ_MILES": 3.448,
+        "LATITUDE": 37.675731,
+        "LONGITUDE": -122.133017,
+        "COUNTY": "Alameda"
+    },
+    "94582": {
+        "ZIP_CODE": 94582,
+        "POPULATION_2010": 38537,
+        "HOUSING_2010": 13345,
+        "LAND_AREA_SQ_METER": 33663078,
+        "LAND_AREA_SQ_MILES": 12.997,
+        "LATITUDE": 37.762174,
+        "LONGITUDE": -121.91578799999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94583": {
+        "ZIP_CODE": 94583,
+        "POPULATION_2010": 34859,
+        "HOUSING_2010": 13282,
+        "LAND_AREA_SQ_METER": 38727298,
+        "LAND_AREA_SQ_MILES": 14.953,
+        "LATITUDE": 37.755503999999995,
+        "LONGITUDE": -121.973009,
+        "COUNTY": "Contra Costa"
+    },
+    "94585": {
+        "ZIP_CODE": 94585,
+        "POPULATION_2010": 28263,
+        "HOUSING_2010": 9511,
+        "LAND_AREA_SQ_METER": 291131232,
+        "LAND_AREA_SQ_MILES": 112.406,
+        "LATITUDE": 38.192498,
+        "LONGITUDE": -121.927529,
+        "COUNTY": "Solano"
+    },
+    "94586": {
+        "ZIP_CODE": 94586,
+        "POPULATION_2010": 925,
+        "HOUSING_2010": 398,
+        "LAND_AREA_SQ_METER": 151891060,
+        "LAND_AREA_SQ_MILES": 58.645,
+        "LATITUDE": 37.57459,
+        "LONGITUDE": -121.85370800000001,
+        "COUNTY": "Alameda"
+    },
+    "94587": {
+        "ZIP_CODE": 94587,
+        "POPULATION_2010": 69516,
+        "HOUSING_2010": 21258,
+        "LAND_AREA_SQ_METER": 51075108,
+        "LAND_AREA_SQ_MILES": 19.72,
+        "LATITUDE": 37.603156,
+        "LONGITUDE": -122.018638,
+        "COUNTY": "Alameda"
+    },
+    "94588": {
+        "ZIP_CODE": 94588,
+        "POPULATION_2010": 30842,
+        "HOUSING_2010": 11263,
+        "LAND_AREA_SQ_METER": 84547541,
+        "LAND_AREA_SQ_MILES": 32.644,
+        "LATITUDE": 37.792682,
+        "LONGITUDE": -121.86058999999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94589": {
+        "ZIP_CODE": 94589,
+        "POPULATION_2010": 29876,
+        "HOUSING_2010": 9973,
+        "LAND_AREA_SQ_METER": 29676409,
+        "LAND_AREA_SQ_MILES": 11.458,
+        "LATITUDE": 38.18735,
+        "LONGITUDE": -122.224074,
+        "COUNTY": "Solano"
+    },
+    "94590": {
+        "ZIP_CODE": 94590,
+        "POPULATION_2010": 35420,
+        "HOUSING_2010": 15729,
+        "LAND_AREA_SQ_METER": 15395883,
+        "LAND_AREA_SQ_MILES": 5.944,
+        "LATITUDE": 38.103234,
+        "LONGITUDE": -122.249096,
+        "COUNTY": "Solano"
+    },
+    "94591": {
+        "ZIP_CODE": 94591,
+        "POPULATION_2010": 53042,
+        "HOUSING_2010": 19644,
+        "LAND_AREA_SQ_METER": 55883798,
+        "LAND_AREA_SQ_MILES": 21.576999999999998,
+        "LATITUDE": 38.122869,
+        "LONGITUDE": -122.196863,
+        "COUNTY": "Solano"
+    },
+    "94592": {
+        "ZIP_CODE": 94592,
+        "POPULATION_2010": 742,
+        "HOUSING_2010": 319,
+        "LAND_AREA_SQ_METER": 10953975,
+        "LAND_AREA_SQ_MILES": 4.229,
+        "LATITUDE": 38.089729999999996,
+        "LONGITUDE": -122.277394,
+        "COUNTY": "Solano"
+    },
+    "94595": {
+        "ZIP_CODE": 94595,
+        "POPULATION_2010": 16425,
+        "HOUSING_2010": 10261,
+        "LAND_AREA_SQ_METER": 13930717,
+        "LAND_AREA_SQ_MILES": 5.379,
+        "LATITUDE": 37.871953000000005,
+        "LONGITUDE": -122.06938600000001,
+        "COUNTY": "Contra Costa"
+    },
+    "94596": {
+        "ZIP_CODE": 94596,
+        "POPULATION_2010": 20037,
+        "HOUSING_2010": 10198,
+        "LAND_AREA_SQ_METER": 15448709,
+        "LAND_AREA_SQ_MILES": 5.965,
+        "LATITUDE": 37.889078999999995,
+        "LONGITUDE": -122.03756000000001,
+        "COUNTY": "Contra Costa"
+    },
+    "94597": {
+        "ZIP_CODE": 94597,
+        "POPULATION_2010": 20277,
+        "HOUSING_2010": 10181,
+        "LAND_AREA_SQ_METER": 10139311,
+        "LAND_AREA_SQ_MILES": 3.915,
+        "LATITUDE": 37.918195000000004,
+        "LONGITUDE": -122.071676,
+        "COUNTY": "Contra Costa"
+    },
+    "94598": {
+        "ZIP_CODE": 94598,
+        "POPULATION_2010": 25818,
+        "HOUSING_2010": 10756,
+        "LAND_AREA_SQ_METER": 39493625,
+        "LAND_AREA_SQ_MILES": 15.249,
+        "LATITUDE": 37.899936,
+        "LONGITUDE": -121.99924399999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94599": {
+        "ZIP_CODE": 94599,
+        "POPULATION_2010": 3021,
+        "HOUSING_2010": 1310,
+        "LAND_AREA_SQ_METER": 7593850,
+        "LAND_AREA_SQ_MILES": 2.932,
+        "LATITUDE": 38.409878000000006,
+        "LONGITUDE": -122.36151100000001,
+        "COUNTY": "Napa"
+    },
+    "94601": {
+        "ZIP_CODE": 94601,
+        "POPULATION_2010": 50294,
+        "HOUSING_2010": 16362,
+        "LAND_AREA_SQ_METER": 8410939,
+        "LAND_AREA_SQ_MILES": 3.247,
+        "LATITUDE": 37.775545,
+        "LONGITUDE": -122.218705,
+        "COUNTY": "Alameda"
+    },
+    "94602": {
+        "ZIP_CODE": 94602,
+        "POPULATION_2010": 28329,
+        "HOUSING_2010": 12498,
+        "LAND_AREA_SQ_METER": 8557026,
+        "LAND_AREA_SQ_MILES": 3.304,
+        "LATITUDE": 37.804320000000004,
+        "LONGITUDE": -122.207545,
+        "COUNTY": "Alameda"
+    },
+    "94603": {
+        "ZIP_CODE": 94603,
+        "POPULATION_2010": 31403,
+        "HOUSING_2010": 9950,
+        "LAND_AREA_SQ_METER": 8445735,
+        "LAND_AREA_SQ_MILES": 3.261,
+        "LATITUDE": 37.736531,
+        "LONGITUDE": -122.179454,
+        "COUNTY": "Alameda"
+    },
+    "94605": {
+        "ZIP_CODE": 94605,
+        "POPULATION_2010": 39016,
+        "HOUSING_2010": 16360,
+        "LAND_AREA_SQ_METER": 23196747,
+        "LAND_AREA_SQ_MILES": 8.956,
+        "LATITUDE": 37.761408,
+        "LONGITUDE": -122.150198,
+        "COUNTY": "Alameda"
+    },
+    "94606": {
+        "ZIP_CODE": 94606,
+        "POPULATION_2010": 36672,
+        "HOUSING_2010": 16289,
+        "LAND_AREA_SQ_METER": 5922461,
+        "LAND_AREA_SQ_MILES": 2.287,
+        "LATITUDE": 37.791887,
+        "LONGITUDE": -122.24533400000001,
+        "COUNTY": "Alameda"
+    },
+    "94607": {
+        "ZIP_CODE": 94607,
+        "POPULATION_2010": 24978,
+        "HOUSING_2010": 12086,
+        "LAND_AREA_SQ_METER": 15275654,
+        "LAND_AREA_SQ_MILES": 5.898,
+        "LATITUDE": 37.807210999999995,
+        "LONGITUDE": -122.301491,
+        "COUNTY": "Alameda"
+    },
+    "94608": {
+        "ZIP_CODE": 94608,
+        "POPULATION_2010": 28019,
+        "HOUSING_2010": 15101,
+        "LAND_AREA_SQ_METER": 7090119,
+        "LAND_AREA_SQ_MILES": 2.738,
+        "LATITUDE": 37.836816999999996,
+        "LONGITUDE": -122.289569,
+        "COUNTY": "Alameda"
+    },
+    "94609": {
+        "ZIP_CODE": 94609,
+        "POPULATION_2010": 20596,
+        "HOUSING_2010": 10348,
+        "LAND_AREA_SQ_METER": 4424277,
+        "LAND_AREA_SQ_MILES": 1.7080000000000002,
+        "LATITUDE": 37.834391,
+        "LONGITUDE": -122.264374,
+        "COUNTY": "Alameda"
+    },
+    "94610": {
+        "ZIP_CODE": 94610,
+        "POPULATION_2010": 29287,
+        "HOUSING_2010": 16450,
+        "LAND_AREA_SQ_METER": 5656311,
+        "LAND_AREA_SQ_MILES": 2.184,
+        "LATITUDE": 37.811406,
+        "LONGITUDE": -122.24245800000001,
+        "COUNTY": "Alameda"
+    },
+    "94611": {
+        "ZIP_CODE": 94611,
+        "POPULATION_2010": 36565,
+        "HOUSING_2010": 17999,
+        "LAND_AREA_SQ_METER": 27352180,
+        "LAND_AREA_SQ_MILES": 10.561,
+        "LATITUDE": 37.829483,
+        "LONGITUDE": -122.20339299999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94612": {
+        "ZIP_CODE": 94612,
+        "POPULATION_2010": 14389,
+        "HOUSING_2010": 8921,
+        "LAND_AREA_SQ_METER": 2205251,
+        "LAND_AREA_SQ_MILES": 0.851,
+        "LATITUDE": 37.8088,
+        "LONGITUDE": -122.269196,
+        "COUNTY": "Alameda"
+    },
+    "94613": {
+        "ZIP_CODE": 94613,
+        "POPULATION_2010": 715,
+        "HOUSING_2010": 5,
+        "LAND_AREA_SQ_METER": 656685,
+        "LAND_AREA_SQ_MILES": 0.254,
+        "LATITUDE": 37.780848999999996,
+        "LONGITUDE": -122.18286699999999,
+        "COUNTY": "Alameda"
+    },
+    "94618": {
+        "ZIP_CODE": 94618,
+        "POPULATION_2010": 16046,
+        "HOUSING_2010": 7698,
+        "LAND_AREA_SQ_METER": 6281500,
+        "LAND_AREA_SQ_MILES": 2.425,
+        "LATITUDE": 37.843962,
+        "LONGITUDE": -122.23811,
+        "COUNTY": "Alameda"
+    },
+    "94619": {
+        "ZIP_CODE": 94619,
+        "POPULATION_2010": 23299,
+        "HOUSING_2010": 9644,
+        "LAND_AREA_SQ_METER": 40532270,
+        "LAND_AREA_SQ_MILES": 15.65,
+        "LATITUDE": 37.781467,
+        "LONGITUDE": -122.13238,
+        "COUNTY": "Alameda"
+    },
+    "94621": {
+        "ZIP_CODE": 94621,
+        "POPULATION_2010": 29870,
+        "HOUSING_2010": 9689,
+        "LAND_AREA_SQ_METER": 20144786,
+        "LAND_AREA_SQ_MILES": 7.778,
+        "LATITUDE": 37.748272,
+        "LONGITUDE": -122.216825,
+        "COUNTY": "Alameda"
+    },
+    "94702": {
+        "ZIP_CODE": 94702,
+        "POPULATION_2010": 15979,
+        "HOUSING_2010": 7959,
+        "LAND_AREA_SQ_METER": 3299367,
+        "LAND_AREA_SQ_MILES": 1.274,
+        "LATITUDE": 37.865784000000005,
+        "LONGITUDE": -122.286326,
+        "COUNTY": "Alameda"
+    },
+    "94703": {
+        "ZIP_CODE": 94703,
+        "POPULATION_2010": 19846,
+        "HOUSING_2010": 9468,
+        "LAND_AREA_SQ_METER": 3460814,
+        "LAND_AREA_SQ_MILES": 1.3359999999999999,
+        "LATITUDE": 37.863906,
+        "LONGITUDE": -122.27564,
+        "COUNTY": "Alameda"
+    },
+    "94704": {
+        "ZIP_CODE": 94704,
+        "POPULATION_2010": 25592,
+        "HOUSING_2010": 9683,
+        "LAND_AREA_SQ_METER": 2769877,
+        "LAND_AREA_SQ_MILES": 1.069,
+        "LATITUDE": 37.866535999999996,
+        "LONGITUDE": -122.257995,
+        "COUNTY": "Alameda"
+    },
+    "94705": {
+        "ZIP_CODE": 94705,
+        "POPULATION_2010": 12762,
+        "HOUSING_2010": 6133,
+        "LAND_AREA_SQ_METER": 8558635,
+        "LAND_AREA_SQ_MILES": 3.305,
+        "LATITUDE": 37.865177,
+        "LONGITUDE": -122.23820900000001,
+        "COUNTY": "Alameda"
+    },
+    "94706": {
+        "ZIP_CODE": 94706,
+        "POPULATION_2010": 19615,
+        "HOUSING_2010": 8429,
+        "LAND_AREA_SQ_METER": 3823559,
+        "LAND_AREA_SQ_MILES": 1.476,
+        "LATITUDE": 37.889703999999995,
+        "LONGITUDE": -122.295526,
+        "COUNTY": "Contra Costa"
+    },
+    "94707": {
+        "ZIP_CODE": 94707,
+        "POPULATION_2010": 11710,
+        "HOUSING_2010": 5198,
+        "LAND_AREA_SQ_METER": 4390733,
+        "LAND_AREA_SQ_MILES": 1.695,
+        "LATITUDE": 37.898189,
+        "LONGITUDE": -122.27913000000001,
+        "COUNTY": "Contra Costa"
+    },
+    "94708": {
+        "ZIP_CODE": 94708,
+        "POPULATION_2010": 10985,
+        "HOUSING_2010": 5047,
+        "LAND_AREA_SQ_METER": 8784938,
+        "LAND_AREA_SQ_MILES": 3.392,
+        "LATITUDE": 37.902944,
+        "LONGITUDE": -122.26179499999999,
+        "COUNTY": "Contra Costa"
+    },
+    "94709": {
+        "ZIP_CODE": 94709,
+        "POPULATION_2010": 11806,
+        "HOUSING_2010": 5605,
+        "LAND_AREA_SQ_METER": 1522484,
+        "LAND_AREA_SQ_MILES": 0.588,
+        "LATITUDE": 37.879234000000004,
+        "LONGITUDE": -122.26683899999999,
+        "COUNTY": "Alameda"
+    },
+    "94710": {
+        "ZIP_CODE": 94710,
+        "POPULATION_2010": 6948,
+        "HOUSING_2010": 2937,
+        "LAND_AREA_SQ_METER": 5566008,
+        "LAND_AREA_SQ_MILES": 2.149,
+        "LATITUDE": 37.863914,
+        "LONGITUDE": -122.30646499999999,
+        "COUNTY": "Alameda"
+    },
+    "94720": {
+        "ZIP_CODE": 94720,
+        "POPULATION_2010": 2964,
+        "HOUSING_2010": 105,
+        "LAND_AREA_SQ_METER": 1612536,
+        "LAND_AREA_SQ_MILES": 0.623,
+        "LATITUDE": 37.873838,
+        "LONGITUDE": -122.254934,
+        "COUNTY": "Alameda"
+    },
+    "94801": {
+        "ZIP_CODE": 94801,
+        "POPULATION_2010": 29395,
+        "HOUSING_2010": 10221,
+        "LAND_AREA_SQ_METER": 29210775,
+        "LAND_AREA_SQ_MILES": 11.277999999999999,
+        "LATITUDE": 37.952844,
+        "LONGITUDE": -122.381974,
+        "COUNTY": "Contra Costa"
+    },
+    "94803": {
+        "ZIP_CODE": 94803,
+        "POPULATION_2010": 24904,
+        "HOUSING_2010": 9675,
+        "LAND_AREA_SQ_METER": 30223793,
+        "LAND_AREA_SQ_MILES": 11.669,
+        "LATITUDE": 37.959540000000004,
+        "LONGITUDE": -122.283555,
+        "COUNTY": "Contra Costa"
+    },
+    "94804": {
+        "ZIP_CODE": 94804,
+        "POPULATION_2010": 38559,
+        "HOUSING_2010": 15257,
+        "LAND_AREA_SQ_METER": 16002841,
+        "LAND_AREA_SQ_MILES": 6.178999999999999,
+        "LATITUDE": 37.916554999999995,
+        "LONGITUDE": -122.341233,
+        "COUNTY": "Contra Costa"
+    },
+    "94805": {
+        "ZIP_CODE": 94805,
+        "POPULATION_2010": 13648,
+        "HOUSING_2010": 5446,
+        "LAND_AREA_SQ_METER": 5142991,
+        "LAND_AREA_SQ_MILES": 1.986,
+        "LATITUDE": 37.942791,
+        "LONGITUDE": -122.322933,
+        "COUNTY": "Contra Costa"
+    },
+    "94806": {
+        "ZIP_CODE": 94806,
+        "POPULATION_2010": 59861,
+        "HOUSING_2010": 20531,
+        "LAND_AREA_SQ_METER": 21583495,
+        "LAND_AREA_SQ_MILES": 8.333,
+        "LATITUDE": 37.98079,
+        "LONGITUDE": -122.337627,
+        "COUNTY": "Contra Costa"
+    },
+    "94850": {
+        "ZIP_CODE": 94850,
+        "POPULATION_2010": 0,
+        "HOUSING_2010": 0,
+        "LAND_AREA_SQ_METER": 109969,
+        "LAND_AREA_SQ_MILES": 0.042,
+        "LATITUDE": 37.902226,
+        "LONGITUDE": -122.317378,
+        "COUNTY": "Contra Costa"
+    },
+    "94901": {
+        "ZIP_CODE": 94901,
+        "POPULATION_2010": 41157,
+        "HOUSING_2010": 16408,
+        "LAND_AREA_SQ_METER": 34087837,
+        "LAND_AREA_SQ_MILES": 13.161,
+        "LATITUDE": 37.978316,
+        "LONGITUDE": -122.496839,
+        "COUNTY": "Marin"
+    },
+    "94903": {
+        "ZIP_CODE": 94903,
+        "POPULATION_2010": 29040,
+        "HOUSING_2010": 12603,
+        "LAND_AREA_SQ_METER": 51941338,
+        "LAND_AREA_SQ_MILES": 20.055,
+        "LATITUDE": 38.022366,
+        "LONGITUDE": -122.555605,
+        "COUNTY": "Marin"
+    },
+    "94904": {
+        "ZIP_CODE": 94904,
+        "POPULATION_2010": 11995,
+        "HOUSING_2010": 5759,
+        "LAND_AREA_SQ_METER": 18763550,
+        "LAND_AREA_SQ_MILES": 7.245,
+        "LATITUDE": 37.945512,
+        "LONGITUDE": -122.56012,
+        "COUNTY": "Marin"
+    },
+    "94920": {
+        "ZIP_CODE": 94920,
+        "POPULATION_2010": 12474,
+        "HOUSING_2010": 5817,
+        "LAND_AREA_SQ_METER": 16917954,
+        "LAND_AREA_SQ_MILES": 6.532,
+        "LATITUDE": 37.885628999999994,
+        "LONGITUDE": -122.46858,
+        "COUNTY": "Marin"
+    },
+    "94922": {
+        "ZIP_CODE": 94922,
+        "POPULATION_2010": 425,
+        "HOUSING_2010": 212,
+        "LAND_AREA_SQ_METER": 31919856,
+        "LAND_AREA_SQ_MILES": 12.324000000000002,
+        "LATITUDE": 38.344946,
+        "LONGITUDE": -122.948799,
+        "COUNTY": "Sonoma"
+    },
+    "94923": {
+        "ZIP_CODE": 94923,
+        "POPULATION_2010": 1411,
+        "HOUSING_2010": 1449,
+        "LAND_AREA_SQ_METER": 55431799,
+        "LAND_AREA_SQ_MILES": 21.401999999999997,
+        "LATITUDE": 38.339953,
+        "LONGITUDE": -123.03505600000001,
+        "COUNTY": "Sonoma"
+    },
+    "94924": {
+        "ZIP_CODE": 94924,
+        "POPULATION_2010": 1638,
+        "HOUSING_2010": 995,
+        "LAND_AREA_SQ_METER": 59879387,
+        "LAND_AREA_SQ_MILES": 23.12,
+        "LATITUDE": 37.943087,
+        "LONGITUDE": -122.72379,
+        "COUNTY": "Marin"
+    },
+    "94925": {
+        "ZIP_CODE": 94925,
+        "POPULATION_2010": 9253,
+        "HOUSING_2010": 4026,
+        "LAND_AREA_SQ_METER": 8193476,
+        "LAND_AREA_SQ_MILES": 3.1639999999999997,
+        "LATITUDE": 37.932145,
+        "LONGITUDE": -122.50773500000001,
+        "COUNTY": "Marin"
+    },
+    "94928": {
+        "ZIP_CODE": 94928,
+        "POPULATION_2010": 43170,
+        "HOUSING_2010": 16594,
+        "LAND_AREA_SQ_METER": 19951956,
+        "LAND_AREA_SQ_MILES": 7.702999999999999,
+        "LATITUDE": 38.34642,
+        "LONGITUDE": -122.69412700000001,
+        "COUNTY": "Sonoma"
+    },
+    "94929": {
+        "ZIP_CODE": 94929,
+        "POPULATION_2010": 264,
+        "HOUSING_2010": 426,
+        "LAND_AREA_SQ_METER": 2749903,
+        "LAND_AREA_SQ_MILES": 1.062,
+        "LATITUDE": 38.25242,
+        "LONGITUDE": -122.962717,
+        "COUNTY": "Marin"
+    },
+    "94930": {
+        "ZIP_CODE": 94930,
+        "POPULATION_2010": 8500,
+        "HOUSING_2010": 4023,
+        "LAND_AREA_SQ_METER": 41237691,
+        "LAND_AREA_SQ_MILES": 15.922,
+        "LATITUDE": 37.943963000000004,
+        "LONGITUDE": -122.616418,
+        "COUNTY": "Marin"
+    },
+    "94931": {
+        "ZIP_CODE": 94931,
+        "POPULATION_2010": 8470,
+        "HOUSING_2010": 3677,
+        "LAND_AREA_SQ_METER": 16452622,
+        "LAND_AREA_SQ_MILES": 6.352,
+        "LATITUDE": 38.324132,
+        "LONGITUDE": -122.714633,
+        "COUNTY": "Sonoma"
+    },
+    "94933": {
+        "ZIP_CODE": 94933,
+        "POPULATION_2010": 865,
+        "HOUSING_2010": 421,
+        "LAND_AREA_SQ_METER": 2835008,
+        "LAND_AREA_SQ_MILES": 1.095,
+        "LATITUDE": 38.012599,
+        "LONGITUDE": -122.687478,
+        "COUNTY": "Marin"
+    },
+    "94937": {
+        "ZIP_CODE": 94937,
+        "POPULATION_2010": 837,
+        "HOUSING_2010": 762,
+        "LAND_AREA_SQ_METER": 107741785,
+        "LAND_AREA_SQ_MILES": 41.599,
+        "LATITUDE": 38.116188,
+        "LONGITUDE": -122.93023400000001,
+        "COUNTY": "Marin"
+    },
+    "94938": {
+        "ZIP_CODE": 94938,
+        "POPULATION_2010": 812,
+        "HOUSING_2010": 417,
+        "LAND_AREA_SQ_METER": 27406981,
+        "LAND_AREA_SQ_MILES": 10.582,
+        "LATITUDE": 38.029069,
+        "LONGITUDE": -122.726523,
+        "COUNTY": "Marin"
+    },
+    "94939": {
+        "ZIP_CODE": 94939,
+        "POPULATION_2010": 6859,
+        "HOUSING_2010": 3582,
+        "LAND_AREA_SQ_METER": 5536933,
+        "LAND_AREA_SQ_MILES": 2.138,
+        "LATITUDE": 37.937082000000004,
+        "LONGITUDE": -122.53236899999999,
+        "COUNTY": "Marin"
+    },
+    "94940": {
+        "ZIP_CODE": 94940,
+        "POPULATION_2010": 268,
+        "HOUSING_2010": 197,
+        "LAND_AREA_SQ_METER": 58977903,
+        "LAND_AREA_SQ_MILES": 22.771,
+        "LATITUDE": 38.17859,
+        "LONGITUDE": -122.883126,
+        "COUNTY": "Marin"
+    },
+    "94941": {
+        "ZIP_CODE": 94941,
+        "POPULATION_2010": 30496,
+        "HOUSING_2010": 14108,
+        "LAND_AREA_SQ_METER": 57584368,
+        "LAND_AREA_SQ_MILES": 22.233,
+        "LATITUDE": 37.897529,
+        "LONGITUDE": -122.56296100000002,
+        "COUNTY": "Marin"
+    },
+    "94945": {
+        "ZIP_CODE": 94945,
+        "POPULATION_2010": 17167,
+        "HOUSING_2010": 7020,
+        "LAND_AREA_SQ_METER": 67357203,
+        "LAND_AREA_SQ_MILES": 26.006999999999998,
+        "LATITUDE": 38.134068,
+        "LONGITUDE": -122.52718999999999,
+        "COUNTY": "Marin"
+    },
+    "94946": {
+        "ZIP_CODE": 94946,
+        "POPULATION_2010": 699,
+        "HOUSING_2010": 351,
+        "LAND_AREA_SQ_METER": 113128397,
+        "LAND_AREA_SQ_MILES": 43.678999999999995,
+        "LATITUDE": 38.082829,
+        "LONGITUDE": -122.671527,
+        "COUNTY": "Marin"
+    },
+    "94947": {
+        "ZIP_CODE": 94947,
+        "POPULATION_2010": 24283,
+        "HOUSING_2010": 9772,
+        "LAND_AREA_SQ_METER": 58778749,
+        "LAND_AREA_SQ_MILES": 22.695,
+        "LATITUDE": 38.112165999999995,
+        "LONGITUDE": -122.63438400000001,
+        "COUNTY": "Marin"
+    },
+    "94949": {
+        "ZIP_CODE": 94949,
+        "POPULATION_2010": 17202,
+        "HOUSING_2010": 7282,
+        "LAND_AREA_SQ_METER": 38918837,
+        "LAND_AREA_SQ_MILES": 15.027000000000001,
+        "LATITUDE": 38.067204,
+        "LONGITUDE": -122.524004,
+        "COUNTY": "Marin"
+    },
+    "94950": {
+        "ZIP_CODE": 94950,
+        "POPULATION_2010": 89,
+        "HOUSING_2010": 54,
+        "LAND_AREA_SQ_METER": 22279973,
+        "LAND_AREA_SQ_MILES": 8.602,
+        "LATITUDE": 38.024885,
+        "LONGITUDE": -122.759933,
+        "COUNTY": "Marin"
+    },
+    "94951": {
+        "ZIP_CODE": 94951,
+        "POPULATION_2010": 4124,
+        "HOUSING_2010": 1794,
+        "LAND_AREA_SQ_METER": 37958330,
+        "LAND_AREA_SQ_MILES": 14.655999999999999,
+        "LATITUDE": 38.320861,
+        "LONGITUDE": -122.646138,
+        "COUNTY": "Sonoma"
+    },
+    "94952": {
+        "ZIP_CODE": 94952,
+        "POPULATION_2010": 32858,
+        "HOUSING_2010": 13904,
+        "LAND_AREA_SQ_METER": 466820751,
+        "LAND_AREA_SQ_MILES": 180.24099999999999,
+        "LATITUDE": 38.234553000000005,
+        "LONGITUDE": -122.76038500000001,
+        "COUNTY": "Sonoma"
+    },
+    "94954": {
+        "ZIP_CODE": 94954,
+        "POPULATION_2010": 37365,
+        "HOUSING_2010": 13915,
+        "LAND_AREA_SQ_METER": 160575265,
+        "LAND_AREA_SQ_MILES": 61.998000000000005,
+        "LATITUDE": 38.235021,
+        "LONGITUDE": -122.557332,
+        "COUNTY": "Sonoma"
+    },
+    "94956": {
+        "ZIP_CODE": 94956,
+        "POPULATION_2010": 1756,
+        "HOUSING_2010": 1064,
+        "LAND_AREA_SQ_METER": 151282609,
+        "LAND_AREA_SQ_MILES": 58.411,
+        "LATITUDE": 38.045857,
+        "LONGITUDE": -122.861209,
+        "COUNTY": "Marin"
+    },
+    "94957": {
+        "ZIP_CODE": 94957,
+        "POPULATION_2010": 1332,
+        "HOUSING_2010": 475,
+        "LAND_AREA_SQ_METER": 2963524,
+        "LAND_AREA_SQ_MILES": 1.1440000000000001,
+        "LATITUDE": 37.963111,
+        "LONGITUDE": -122.563588,
+        "COUNTY": "Marin"
+    },
+    "94960": {
+        "ZIP_CODE": 94960,
+        "POPULATION_2010": 15740,
+        "HOUSING_2010": 6791,
+        "LAND_AREA_SQ_METER": 15368189,
+        "LAND_AREA_SQ_MILES": 5.934,
+        "LATITUDE": 37.995864000000005,
+        "LONGITUDE": -122.57781399999999,
+        "COUNTY": "Marin"
+    },
+    "94963": {
+        "ZIP_CODE": 94963,
+        "POPULATION_2010": 569,
+        "HOUSING_2010": 259,
+        "LAND_AREA_SQ_METER": 6894481,
+        "LAND_AREA_SQ_MILES": 2.662,
+        "LATITUDE": 38.013719,
+        "LONGITUDE": -122.67012,
+        "COUNTY": "Marin"
+    },
+    "94964": {
+        "ZIP_CODE": 94964,
+        "POPULATION_2010": 5094,
+        "HOUSING_2010": 115,
+        "LAND_AREA_SQ_METER": 1009696,
+        "LAND_AREA_SQ_MILES": 0.39,
+        "LATITUDE": 37.943257,
+        "LONGITUDE": -122.492151,
+        "COUNTY": "Marin"
+    },
+    "94965": {
+        "ZIP_CODE": 94965,
+        "POPULATION_2010": 10847,
+        "HOUSING_2010": 6466,
+        "LAND_AREA_SQ_METER": 35020350,
+        "LAND_AREA_SQ_MILES": 13.520999999999999,
+        "LATITUDE": 37.852903999999995,
+        "LONGITUDE": -122.547207,
+        "COUNTY": "Marin"
+    },
+    "94970": {
+        "ZIP_CODE": 94970,
+        "POPULATION_2010": 683,
+        "HOUSING_2010": 818,
+        "LAND_AREA_SQ_METER": 18019764,
+        "LAND_AREA_SQ_MILES": 6.957000000000001,
+        "LATITUDE": 37.914513,
+        "LONGITUDE": -122.64688999999998,
+        "COUNTY": "Marin"
+    },
+    "94971": {
+        "ZIP_CODE": 94971,
+        "POPULATION_2010": 337,
+        "HOUSING_2010": 181,
+        "LAND_AREA_SQ_METER": 32062021,
+        "LAND_AREA_SQ_MILES": 12.379000000000001,
+        "LATITUDE": 38.231532,
+        "LONGITUDE": -122.92825,
+        "COUNTY": "Marin"
+    },
+    "94972": {
+        "ZIP_CODE": 94972,
+        "POPULATION_2010": 52,
+        "HOUSING_2010": 28,
+        "LAND_AREA_SQ_METER": 29959646,
+        "LAND_AREA_SQ_MILES": 11.567,
+        "LATITUDE": 38.292103000000004,
+        "LONGITUDE": -122.971069,
+        "COUNTY": "Marin"
+    },
+    "94973": {
+        "ZIP_CODE": 94973,
+        "POPULATION_2010": 1429,
+        "HOUSING_2010": 677,
+        "LAND_AREA_SQ_METER": 10318686,
+        "LAND_AREA_SQ_MILES": 3.984,
+        "LATITUDE": 38.012696999999996,
+        "LONGITUDE": -122.63959799999999,
+        "COUNTY": "Marin"
+    },
+    "95002": {
+        "ZIP_CODE": 95002,
+        "POPULATION_2010": 2077,
+        "HOUSING_2010": 614,
+        "LAND_AREA_SQ_METER": 31006231,
+        "LAND_AREA_SQ_MILES": 11.972000000000001,
+        "LATITUDE": 37.438525,
+        "LONGITUDE": -122.011246,
+        "COUNTY": "Santa Clara"
+    },
+    "95008": {
+        "ZIP_CODE": 95008,
+        "POPULATION_2010": 45260,
+        "HOUSING_2010": 19410,
+        "LAND_AREA_SQ_METER": 16543756,
+        "LAND_AREA_SQ_MILES": 6.388,
+        "LATITUDE": 37.278563,
+        "LONGITUDE": -121.955101,
+        "COUNTY": "Santa Clara"
+    },
+    "95013": {
+        "ZIP_CODE": 95013,
+        "POPULATION_2010": 80,
+        "HOUSING_2010": 32,
+        "LAND_AREA_SQ_METER": 3954839,
+        "LAND_AREA_SQ_MILES": 1.527,
+        "LATITUDE": 37.215421,
+        "LONGITUDE": -121.741423,
+        "COUNTY": "Santa Clara"
+    },
+    "95014": {
+        "ZIP_CODE": 95014,
+        "POPULATION_2010": 60717,
+        "HOUSING_2010": 22035,
+        "LAND_AREA_SQ_METER": 69748879,
+        "LAND_AREA_SQ_MILES": 26.93,
+        "LATITUDE": 37.30661,
+        "LONGITUDE": -122.080628,
+        "COUNTY": "Santa Clara"
+    },
+    "95020": {
+        "ZIP_CODE": 95020,
+        "POPULATION_2010": 57349,
+        "HOUSING_2010": 17629,
+        "LAND_AREA_SQ_METER": 403878926,
+        "LAND_AREA_SQ_MILES": 155.939,
+        "LATITUDE": 37.018419,
+        "LONGITUDE": -121.554249,
+        "COUNTY": "Santa Clara"
+    },
+    "95023": {
+        "ZIP_CODE": 95023,
+        "POPULATION_2010": 48841,
+        "HOUSING_2010": 15301,
+        "LAND_AREA_SQ_METER": 1067981566,
+        "LAND_AREA_SQ_MILES": 412.35,
+        "LATITUDE": 36.902045,
+        "LONGITUDE": -121.350783,
+        "COUNTY": "Santa Clara"
+    },
+    "95030": {
+        "ZIP_CODE": 95030,
+        "POPULATION_2010": 12791,
+        "HOUSING_2010": 5711,
+        "LAND_AREA_SQ_METER": 27046433,
+        "LAND_AREA_SQ_MILES": 10.443,
+        "LATITUDE": 37.222788,
+        "LONGITUDE": -121.983274,
+        "COUNTY": "Santa Clara"
+    },
+    "95032": {
+        "ZIP_CODE": 95032,
+        "POPULATION_2010": 25089,
+        "HOUSING_2010": 10568,
+        "LAND_AREA_SQ_METER": 41143975,
+        "LAND_AREA_SQ_MILES": 15.886,
+        "LATITUDE": 37.216822,
+        "LONGITUDE": -121.926548,
+        "COUNTY": "Santa Clara"
+    },
+    "95033": {
+        "ZIP_CODE": 95033,
+        "POPULATION_2010": 9372,
+        "HOUSING_2010": 4135,
+        "LAND_AREA_SQ_METER": 237460748,
+        "LAND_AREA_SQ_MILES": 91.684,
+        "LATITUDE": 37.16132,
+        "LONGITUDE": -121.984916,
+        "COUNTY": "Santa Clara"
+    },
+    "95035": {
+        "ZIP_CODE": 95035,
+        "POPULATION_2010": 66943,
+        "HOUSING_2010": 19874,
+        "LAND_AREA_SQ_METER": 60201550,
+        "LAND_AREA_SQ_MILES": 23.244,
+        "LATITUDE": 37.443638,
+        "LONGITUDE": -121.874953,
+        "COUNTY": "Santa Clara"
+    },
+    "95037": {
+        "ZIP_CODE": 95037,
+        "POPULATION_2010": 45579,
+        "HOUSING_2010": 15626,
+        "LAND_AREA_SQ_METER": 630183859,
+        "LAND_AREA_SQ_MILES": 243.315,
+        "LATITUDE": 37.174063000000004,
+        "LONGITUDE": -121.598747,
+        "COUNTY": "Santa Clara"
+    },
+    "95046": {
+        "ZIP_CODE": 95046,
+        "POPULATION_2010": 6417,
+        "HOUSING_2010": 1954,
+        "LAND_AREA_SQ_METER": 50452242,
+        "LAND_AREA_SQ_MILES": 19.48,
+        "LATITUDE": 37.099308,
+        "LONGITUDE": -121.59924,
+        "COUNTY": "Santa Clara"
+    },
+    "95050": {
+        "ZIP_CODE": 95050,
+        "POPULATION_2010": 35923,
+        "HOUSING_2010": 14855,
+        "LAND_AREA_SQ_METER": 13667199,
+        "LAND_AREA_SQ_MILES": 5.277,
+        "LATITUDE": 37.351158,
+        "LONGITUDE": -121.95229499999999,
+        "COUNTY": "Santa Clara"
+    },
+    "95051": {
+        "ZIP_CODE": 95051,
+        "POPULATION_2010": 54327,
+        "HOUSING_2010": 21119,
+        "LAND_AREA_SQ_METER": 17244623,
+        "LAND_AREA_SQ_MILES": 6.6579999999999995,
+        "LATITUDE": 37.348651000000004,
+        "LONGITUDE": -121.984376,
+        "COUNTY": "Santa Clara"
+    },
+    "95053": {
+        "ZIP_CODE": 95053,
+        "POPULATION_2010": 2206,
+        "HOUSING_2010": 21,
+        "LAND_AREA_SQ_METER": 442035,
+        "LAND_AREA_SQ_MILES": 0.171,
+        "LATITUDE": 37.348725,
+        "LONGITUDE": -121.93755900000001,
+        "COUNTY": "Santa Clara"
+    },
+    "95054": {
+        "ZIP_CODE": 95054,
+        "POPULATION_2010": 23364,
+        "HOUSING_2010": 8891,
+        "LAND_AREA_SQ_METER": 16222835,
+        "LAND_AREA_SQ_MILES": 6.263999999999999,
+        "LATITUDE": 37.39349,
+        "LONGITUDE": -121.964672,
+        "COUNTY": "Santa Clara"
+    },
+    "95070": {
+        "ZIP_CODE": 95070,
+        "POPULATION_2010": 30617,
+        "HOUSING_2010": 11379,
+        "LAND_AREA_SQ_METER": 66031411,
+        "LAND_AREA_SQ_MILES": 25.495,
+        "LATITUDE": 37.257287,
+        "LONGITUDE": -122.04516399999999,
+        "COUNTY": "Santa Clara"
+    },
+    "95076": {
+        "ZIP_CODE": 95076,
+        "POPULATION_2010": 82474,
+        "HOUSING_2010": 24331,
+        "LAND_AREA_SQ_METER": 353788509,
+        "LAND_AREA_SQ_MILES": 136.599,
+        "LATITUDE": 36.946256,
+        "LONGITUDE": -121.756479,
+        "COUNTY": "Santa Clara"
+    },
+    "95110": {
+        "ZIP_CODE": 95110,
+        "POPULATION_2010": 18730,
+        "HOUSING_2010": 6339,
+        "LAND_AREA_SQ_METER": 12086351,
+        "LAND_AREA_SQ_MILES": 4.667,
+        "LATITUDE": 37.346608,
+        "LONGITUDE": -121.909871,
+        "COUNTY": "Santa Clara"
+    },
+    "95111": {
+        "ZIP_CODE": 95111,
+        "POPULATION_2010": 58466,
+        "HOUSING_2010": 15511,
+        "LAND_AREA_SQ_METER": 13969546,
+        "LAND_AREA_SQ_MILES": 5.394,
+        "LATITUDE": 37.283111,
+        "LONGITUDE": -121.826245,
+        "COUNTY": "Santa Clara"
+    },
+    "95112": {
+        "ZIP_CODE": 95112,
+        "POPULATION_2010": 55927,
+        "HOUSING_2010": 20763,
+        "LAND_AREA_SQ_METER": 18370035,
+        "LAND_AREA_SQ_MILES": 7.093,
+        "LATITUDE": 37.344507,
+        "LONGITUDE": -121.88353700000002,
+        "COUNTY": "Santa Clara"
+    },
+    "95113": {
+        "ZIP_CODE": 95113,
+        "POPULATION_2010": 893,
+        "HOUSING_2010": 992,
+        "LAND_AREA_SQ_METER": 883438,
+        "LAND_AREA_SQ_MILES": 0.341,
+        "LATITUDE": 37.333707000000004,
+        "LONGITUDE": -121.891049,
+        "COUNTY": "Santa Clara"
+    },
+    "95116": {
+        "ZIP_CODE": 95116,
+        "POPULATION_2010": 51496,
+        "HOUSING_2010": 13663,
+        "LAND_AREA_SQ_METER": 9273431,
+        "LAND_AREA_SQ_MILES": 3.58,
+        "LATITUDE": 37.350466,
+        "LONGITUDE": -121.852602,
+        "COUNTY": "Santa Clara"
+    },
+    "95117": {
+        "ZIP_CODE": 95117,
+        "POPULATION_2010": 30067,
+        "HOUSING_2010": 11263,
+        "LAND_AREA_SQ_METER": 6659925,
+        "LAND_AREA_SQ_MILES": 2.571,
+        "LATITUDE": 37.311181,
+        "LONGITUDE": -121.96186999999999,
+        "COUNTY": "Santa Clara"
+    },
+    "95118": {
+        "ZIP_CODE": 95118,
+        "POPULATION_2010": 31932,
+        "HOUSING_2010": 11544,
+        "LAND_AREA_SQ_METER": 10735870,
+        "LAND_AREA_SQ_MILES": 4.145,
+        "LATITUDE": 37.255519,
+        "LONGITUDE": -121.889982,
+        "COUNTY": "Santa Clara"
+    },
+    "95119": {
+        "ZIP_CODE": 95119,
+        "POPULATION_2010": 9970,
+        "HOUSING_2010": 3200,
+        "LAND_AREA_SQ_METER": 7327319,
+        "LAND_AREA_SQ_MILES": 2.8289999999999997,
+        "LATITUDE": 37.230059000000004,
+        "LONGITUDE": -121.7851,
+        "COUNTY": "Santa Clara"
+    },
+    "95120": {
+        "ZIP_CODE": 95120,
+        "POPULATION_2010": 37457,
+        "HOUSING_2010": 12785,
+        "LAND_AREA_SQ_METER": 102966010,
+        "LAND_AREA_SQ_MILES": 39.755,
+        "LATITUDE": 37.186141,
+        "LONGITUDE": -121.843554,
+        "COUNTY": "Santa Clara"
+    },
+    "95121": {
+        "ZIP_CODE": 95121,
+        "POPULATION_2010": 37469,
+        "HOUSING_2010": 9625,
+        "LAND_AREA_SQ_METER": 11479041,
+        "LAND_AREA_SQ_MILES": 4.4319999999999995,
+        "LATITUDE": 37.304151,
+        "LONGITUDE": -121.80986100000001,
+        "COUNTY": "Santa Clara"
+    },
+    "95122": {
+        "ZIP_CODE": 95122,
+        "POPULATION_2010": 56545,
+        "HOUSING_2010": 12702,
+        "LAND_AREA_SQ_METER": 12351716,
+        "LAND_AREA_SQ_MILES": 4.769,
+        "LATITUDE": 37.3287,
+        "LONGITUDE": -121.835328,
+        "COUNTY": "Santa Clara"
+    },
+    "95123": {
+        "ZIP_CODE": 95123,
+        "POPULATION_2010": 62228,
+        "HOUSING_2010": 22035,
+        "LAND_AREA_SQ_METER": 21542559,
+        "LAND_AREA_SQ_MILES": 8.318,
+        "LATITUDE": 37.244238,
+        "LONGITUDE": -121.831604,
+        "COUNTY": "Santa Clara"
+    },
+    "95124": {
+        "ZIP_CODE": 95124,
+        "POPULATION_2010": 47082,
+        "HOUSING_2010": 17345,
+        "LAND_AREA_SQ_METER": 17015453,
+        "LAND_AREA_SQ_MILES": 6.57,
+        "LATITUDE": 37.256766,
+        "LONGITUDE": -121.92276399999999,
+        "COUNTY": "Santa Clara"
+    },
+    "95125": {
+        "ZIP_CODE": 95125,
+        "POPULATION_2010": 51939,
+        "HOUSING_2010": 21640,
+        "LAND_AREA_SQ_METER": 20732334,
+        "LAND_AREA_SQ_MILES": 8.005,
+        "LATITUDE": 37.295097,
+        "LONGITUDE": -121.89143,
+        "COUNTY": "Santa Clara"
+    },
+    "95126": {
+        "ZIP_CODE": 95126,
+        "POPULATION_2010": 31049,
+        "HOUSING_2010": 13815,
+        "LAND_AREA_SQ_METER": 8501814,
+        "LAND_AREA_SQ_MILES": 3.283,
+        "LATITUDE": 37.326803000000005,
+        "LONGITUDE": -121.91676499999998,
+        "COUNTY": "Santa Clara"
+    },
+    "95127": {
+        "ZIP_CODE": 95127,
+        "POPULATION_2010": 61325,
+        "HOUSING_2010": 16416,
+        "LAND_AREA_SQ_METER": 33699820,
+        "LAND_AREA_SQ_MILES": 13.012,
+        "LATITUDE": 37.371078999999995,
+        "LONGITUDE": -121.800706,
+        "COUNTY": "Santa Clara"
+    },
+    "95128": {
+        "ZIP_CODE": 95128,
+        "POPULATION_2010": 34836,
+        "HOUSING_2010": 14295,
+        "LAND_AREA_SQ_METER": 10111701,
+        "LAND_AREA_SQ_MILES": 3.904,
+        "LATITUDE": 37.315976,
+        "LONGITUDE": -121.93631299999998,
+        "COUNTY": "Santa Clara"
+    },
+    "95129": {
+        "ZIP_CODE": 95129,
+        "POPULATION_2010": 38720,
+        "HOUSING_2010": 14517,
+        "LAND_AREA_SQ_METER": 11686153,
+        "LAND_AREA_SQ_MILES": 4.512,
+        "LATITUDE": 37.30574,
+        "LONGITUDE": -122.00091299999998,
+        "COUNTY": "Santa Clara"
+    },
+    "95130": {
+        "ZIP_CODE": 95130,
+        "POPULATION_2010": 13911,
+        "HOUSING_2010": 5175,
+        "LAND_AREA_SQ_METER": 4034677,
+        "LAND_AREA_SQ_MILES": 1.558,
+        "LATITUDE": 37.277121,
+        "LONGITUDE": -121.98613300000001,
+        "COUNTY": "Santa Clara"
+    },
+    "95131": {
+        "ZIP_CODE": 95131,
+        "POPULATION_2010": 28565,
+        "HOUSING_2010": 9231,
+        "LAND_AREA_SQ_METER": 15058227,
+        "LAND_AREA_SQ_MILES": 5.814,
+        "LATITUDE": 37.387105,
+        "LONGITUDE": -121.897415,
+        "COUNTY": "Santa Clara"
+    },
+    "95132": {
+        "ZIP_CODE": 95132,
+        "POPULATION_2010": 40299,
+        "HOUSING_2010": 11899,
+        "LAND_AREA_SQ_METER": 132004424,
+        "LAND_AREA_SQ_MILES": 50.967,
+        "LATITUDE": 37.424655,
+        "LONGITUDE": -121.74841,
+        "COUNTY": "Santa Clara"
+    },
+    "95133": {
+        "ZIP_CODE": 95133,
+        "POPULATION_2010": 25401,
+        "HOUSING_2010": 7651,
+        "LAND_AREA_SQ_METER": 8241772,
+        "LAND_AREA_SQ_MILES": 3.182,
+        "LATITUDE": 37.371645,
+        "LONGITUDE": -121.86076399999999,
+        "COUNTY": "Santa Clara"
+    },
+    "95134": {
+        "ZIP_CODE": 95134,
+        "POPULATION_2010": 15268,
+        "HOUSING_2010": 7068,
+        "LAND_AREA_SQ_METER": 24563311,
+        "LAND_AREA_SQ_MILES": 9.484,
+        "LATITUDE": 37.42765,
+        "LONGITUDE": -121.945416,
+        "COUNTY": "Santa Clara"
+    },
+    "95135": {
+        "ZIP_CODE": 95135,
+        "POPULATION_2010": 20120,
+        "HOUSING_2010": 7373,
+        "LAND_AREA_SQ_METER": 79227374,
+        "LAND_AREA_SQ_MILES": 30.59,
+        "LATITUDE": 37.286454,
+        "LONGITUDE": -121.68836,
+        "COUNTY": "Santa Clara"
+    },
+    "95136": {
+        "ZIP_CODE": 95136,
+        "POPULATION_2010": 42989,
+        "HOUSING_2010": 15448,
+        "LAND_AREA_SQ_METER": 12260084,
+        "LAND_AREA_SQ_MILES": 4.734,
+        "LATITUDE": 37.270058,
+        "LONGITUDE": -121.85133300000001,
+        "COUNTY": "Santa Clara"
+    },
+    "95138": {
+        "ZIP_CODE": 95138,
+        "POPULATION_2010": 18889,
+        "HOUSING_2010": 5891,
+        "LAND_AREA_SQ_METER": 67519790,
+        "LAND_AREA_SQ_MILES": 26.07,
+        "LATITUDE": 37.246621000000005,
+        "LONGITUDE": -121.73383999999999,
+        "COUNTY": "Santa Clara"
+    },
+    "95139": {
+        "ZIP_CODE": 95139,
+        "POPULATION_2010": 6748,
+        "HOUSING_2010": 2260,
+        "LAND_AREA_SQ_METER": 3188071,
+        "LAND_AREA_SQ_MILES": 1.2309999999999999,
+        "LATITUDE": 37.224914,
+        "LONGITUDE": -121.764075,
+        "COUNTY": "Santa Clara"
+    },
+    "95140": {
+        "ZIP_CODE": 95140,
+        "POPULATION_2010": 191,
+        "HOUSING_2010": 130,
+        "LAND_AREA_SQ_METER": 320449305,
+        "LAND_AREA_SQ_MILES": 123.726,
+        "LATITUDE": 37.393503,
+        "LONGITUDE": -121.62000900000001,
+        "COUNTY": "Santa Clara"
+    },
+    "95148": {
+        "ZIP_CODE": 95148,
+        "POPULATION_2010": 45528,
+        "HOUSING_2010": 11747,
+        "LAND_AREA_SQ_METER": 24409620,
+        "LAND_AREA_SQ_MILES": 9.425,
+        "LATITUDE": 37.335987,
+        "LONGITUDE": -121.777603,
+        "COUNTY": "Santa Clara"
+    },
+    "95219": {
+        "ZIP_CODE": 95219,
+        "POPULATION_2010": 27884,
+        "HOUSING_2010": 11281,
+        "LAND_AREA_SQ_METER": 147276476,
+        "LAND_AREA_SQ_MILES": 56.864,
+        "LATITUDE": 38.051726,
+        "LONGITUDE": -121.48303600000001,
+        "COUNTY": "Contra Costa"
+    },
+    "95377": {
+        "ZIP_CODE": 95377,
+        "POPULATION_2010": 30902,
+        "HOUSING_2010": 8819,
+        "LAND_AREA_SQ_METER": 279847793,
+        "LAND_AREA_SQ_MILES": 108.05,
+        "LATITUDE": 37.674036,
+        "LONGITUDE": -121.51728100000001,
+        "COUNTY": "Alameda"
+    },
+    "95391": {
+        "ZIP_CODE": 95391,
+        "POPULATION_2010": 9959,
+        "HOUSING_2010": 3331,
+        "LAND_AREA_SQ_METER": 61518426,
+        "LAND_AREA_SQ_MILES": 23.752,
+        "LATITUDE": 37.768237,
+        "LONGITUDE": -121.60968600000001,
+        "COUNTY": "Alameda"
+    },
+    "95401": {
+        "ZIP_CODE": 95401,
+        "POPULATION_2010": 36981,
+        "HOUSING_2010": 14062,
+        "LAND_AREA_SQ_METER": 53417691,
+        "LAND_AREA_SQ_MILES": 20.625,
+        "LATITUDE": 38.449137,
+        "LONGITUDE": -122.793752,
+        "COUNTY": "Sonoma"
+    },
+    "95403": {
+        "ZIP_CODE": 95403,
+        "POPULATION_2010": 45164,
+        "HOUSING_2010": 17965,
+        "LAND_AREA_SQ_METER": 57009092,
+        "LAND_AREA_SQ_MILES": 22.011,
+        "LATITUDE": 38.503685,
+        "LONGITUDE": -122.754057,
+        "COUNTY": "Sonoma"
+    },
+    "95404": {
+        "ZIP_CODE": 95404,
+        "POPULATION_2010": 39761,
+        "HOUSING_2010": 17039,
+        "LAND_AREA_SQ_METER": 207132279,
+        "LAND_AREA_SQ_MILES": 79.97399999999999,
+        "LATITUDE": 38.526298,
+        "LONGITUDE": -122.69096,
+        "COUNTY": "Sonoma"
+    },
+    "95405": {
+        "ZIP_CODE": 95405,
+        "POPULATION_2010": 21399,
+        "HOUSING_2010": 9251,
+        "LAND_AREA_SQ_METER": 14183932,
+        "LAND_AREA_SQ_MILES": 5.476,
+        "LATITUDE": 38.437114,
+        "LONGITUDE": -122.665993,
+        "COUNTY": "Sonoma"
+    },
+    "95407": {
+        "ZIP_CODE": 95407,
+        "POPULATION_2010": 39352,
+        "HOUSING_2010": 12442,
+        "LAND_AREA_SQ_METER": 58746449,
+        "LAND_AREA_SQ_MILES": 22.682,
+        "LATITUDE": 38.3933,
+        "LONGITUDE": -122.745048,
+        "COUNTY": "Sonoma"
+    },
+    "95409": {
+        "ZIP_CODE": 95409,
+        "POPULATION_2010": 27187,
+        "HOUSING_2010": 12983,
+        "LAND_AREA_SQ_METER": 99389538,
+        "LAND_AREA_SQ_MILES": 38.375,
+        "LATITUDE": 38.468893,
+        "LONGITUDE": -122.58053899999999,
+        "COUNTY": "Sonoma"
+    },
+    "95412": {
+        "ZIP_CODE": 95412,
+        "POPULATION_2010": 401,
+        "HOUSING_2010": 203,
+        "LAND_AREA_SQ_METER": 221922989,
+        "LAND_AREA_SQ_MILES": 85.685,
+        "LATITUDE": 38.713421000000004,
+        "LONGITUDE": -123.349777,
+        "COUNTY": "Sonoma"
+    },
+    "95421": {
+        "ZIP_CODE": 95421,
+        "POPULATION_2010": 1592,
+        "HOUSING_2010": 1289,
+        "LAND_AREA_SQ_METER": 561075399,
+        "LAND_AREA_SQ_MILES": 216.632,
+        "LATITUDE": 38.628044,
+        "LONGITUDE": -123.15948600000002,
+        "COUNTY": "Sonoma"
+    },
+    "95425": {
+        "ZIP_CODE": 95425,
+        "POPULATION_2010": 10841,
+        "HOUSING_2010": 4544,
+        "LAND_AREA_SQ_METER": 532783085,
+        "LAND_AREA_SQ_MILES": 205.709,
+        "LATITUDE": 38.823075,
+        "LONGITUDE": -123.06356699999999,
+        "COUNTY": "Sonoma"
+    },
+    "95430": {
+        "ZIP_CODE": 95430,
+        "POPULATION_2010": 44,
+        "HOUSING_2010": 32,
+        "LAND_AREA_SQ_METER": 615335,
+        "LAND_AREA_SQ_MILES": 0.23800000000000002,
+        "LATITUDE": 38.461425,
+        "LONGITUDE": -123.04718500000001,
+        "COUNTY": "Sonoma"
+    },
+    "95431": {
+        "ZIP_CODE": 95431,
+        "POPULATION_2010": 631,
+        "HOUSING_2010": 0,
+        "LAND_AREA_SQ_METER": 196644,
+        "LAND_AREA_SQ_MILES": 0.076,
+        "LATITUDE": 38.348343,
+        "LONGITUDE": -122.51705600000001,
+        "COUNTY": "Sonoma"
+    },
+    "95436": {
+        "ZIP_CODE": 95436,
+        "POPULATION_2010": 5418,
+        "HOUSING_2010": 2995,
+        "LAND_AREA_SQ_METER": 59514277,
+        "LAND_AREA_SQ_MILES": 22.979,
+        "LATITUDE": 38.48697,
+        "LONGITUDE": -122.905772,
+        "COUNTY": "Sonoma"
+    },
+    "95439": {
+        "ZIP_CODE": 95439,
+        "POPULATION_2010": 675,
+        "HOUSING_2010": 263,
+        "LAND_AREA_SQ_METER": 7091874,
+        "LAND_AREA_SQ_MILES": 2.738,
+        "LATITUDE": 38.493179,
+        "LONGITUDE": -122.777546,
+        "COUNTY": "Sonoma"
+    },
+    "95441": {
+        "ZIP_CODE": 95441,
+        "POPULATION_2010": 2014,
+        "HOUSING_2010": 847,
+        "LAND_AREA_SQ_METER": 263936405,
+        "LAND_AREA_SQ_MILES": 101.906,
+        "LATITUDE": 38.731694,
+        "LONGITUDE": -122.90676699999999,
+        "COUNTY": "Sonoma"
+    },
+    "95442": {
+        "ZIP_CODE": 95442,
+        "POPULATION_2010": 3178,
+        "HOUSING_2010": 1750,
+        "LAND_AREA_SQ_METER": 63226514,
+        "LAND_AREA_SQ_MILES": 24.412,
+        "LATITUDE": 38.371334000000004,
+        "LONGITUDE": -122.487136,
+        "COUNTY": "Sonoma"
+    },
+    "95444": {
+        "ZIP_CODE": 95444,
+        "POPULATION_2010": 748,
+        "HOUSING_2010": 288,
+        "LAND_AREA_SQ_METER": 700896,
+        "LAND_AREA_SQ_MILES": 0.271,
+        "LATITUDE": 38.433215999999994,
+        "LONGITUDE": -122.869001,
+        "COUNTY": "Sonoma"
+    },
+    "95446": {
+        "ZIP_CODE": 95446,
+        "POPULATION_2010": 4750,
+        "HOUSING_2010": 3565,
+        "LAND_AREA_SQ_METER": 85259067,
+        "LAND_AREA_SQ_MILES": 32.919000000000004,
+        "LATITUDE": 38.527164,
+        "LONGITUDE": -123.007892,
+        "COUNTY": "Sonoma"
+    },
+    "95448": {
+        "ZIP_CODE": 95448,
+        "POPULATION_2010": 16852,
+        "HOUSING_2010": 7753,
+        "LAND_AREA_SQ_METER": 488207763,
+        "LAND_AREA_SQ_MILES": 188.498,
+        "LATITUDE": 38.627028,
+        "LONGITUDE": -122.89158,
+        "COUNTY": "Sonoma"
+    },
+    "95450": {
+        "ZIP_CODE": 95450,
+        "POPULATION_2010": 387,
+        "HOUSING_2010": 366,
+        "LAND_AREA_SQ_METER": 71095022,
+        "LAND_AREA_SQ_MILES": 27.45,
+        "LATITUDE": 38.501363,
+        "LONGITUDE": -123.170879,
+        "COUNTY": "Sonoma"
+    },
+    "95452": {
+        "ZIP_CODE": 95452,
+        "POPULATION_2010": 1393,
+        "HOUSING_2010": 760,
+        "LAND_AREA_SQ_METER": 37217734,
+        "LAND_AREA_SQ_MILES": 14.37,
+        "LATITUDE": 38.425523,
+        "LONGITUDE": -122.53521,
+        "COUNTY": "Sonoma"
+    },
+    "95462": {
+        "ZIP_CODE": 95462,
+        "POPULATION_2010": 1417,
+        "HOUSING_2010": 1135,
+        "LAND_AREA_SQ_METER": 15213763,
+        "LAND_AREA_SQ_MILES": 5.874,
+        "LATITUDE": 38.462146000000004,
+        "LONGITUDE": -123.018428,
+        "COUNTY": "Sonoma"
+    },
+    "95465": {
+        "ZIP_CODE": 95465,
+        "POPULATION_2010": 2083,
+        "HOUSING_2010": 1314,
+        "LAND_AREA_SQ_METER": 108040410,
+        "LAND_AREA_SQ_MILES": 41.715,
+        "LATITUDE": 38.421306,
+        "LONGITUDE": -123.065708,
+        "COUNTY": "Sonoma"
+    },
+    "95471": {
+        "ZIP_CODE": 95471,
+        "POPULATION_2010": 522,
+        "HOUSING_2010": 434,
+        "LAND_AREA_SQ_METER": 3734436,
+        "LAND_AREA_SQ_MILES": 1.442,
+        "LATITUDE": 38.524077,
+        "LONGITUDE": -122.968774,
+        "COUNTY": "Sonoma"
+    },
+    "95472": {
+        "ZIP_CODE": 95472,
+        "POPULATION_2010": 28255,
+        "HOUSING_2010": 13187,
+        "LAND_AREA_SQ_METER": 179074707,
+        "LAND_AREA_SQ_MILES": 69.141,
+        "LATITUDE": 38.398815,
+        "LONGITUDE": -122.861923,
+        "COUNTY": "Sonoma"
+    },
+    "95476": {
+        "ZIP_CODE": 95476,
+        "POPULATION_2010": 35394,
+        "HOUSING_2010": 16559,
+        "LAND_AREA_SQ_METER": 290048360,
+        "LAND_AREA_SQ_MILES": 111.988,
+        "LATITUDE": 38.254934999999996,
+        "LONGITUDE": -122.470703,
+        "COUNTY": "Sonoma"
+    },
+    "95486": {
+        "ZIP_CODE": 95486,
+        "POPULATION_2010": 62,
+        "HOUSING_2010": 67,
+        "LAND_AREA_SQ_METER": 50163,
+        "LAND_AREA_SQ_MILES": 0.019,
+        "LATITUDE": 38.474137,
+        "LONGITUDE": -123.024203,
+        "COUNTY": "Sonoma"
+    },
+    "95492": {
+        "ZIP_CODE": 95492,
+        "POPULATION_2010": 28532,
+        "HOUSING_2010": 10192,
+        "LAND_AREA_SQ_METER": 49281501,
+        "LAND_AREA_SQ_MILES": 19.028,
+        "LATITUDE": 38.528079,
+        "LONGITUDE": -122.821349,
+        "COUNTY": "Sonoma"
+    },
+    "95497": {
+        "ZIP_CODE": 95497,
+        "POPULATION_2010": 1305,
+        "HOUSING_2010": 1818,
+        "LAND_AREA_SQ_METER": 41841498,
+        "LAND_AREA_SQ_MILES": 16.155,
+        "LATITUDE": 38.742903000000005,
+        "LONGITUDE": -123.476087,
+        "COUNTY": "Sonoma"
+    },
+    "95612": {
+        "ZIP_CODE": 95612,
+        "POPULATION_2010": 1239,
+        "HOUSING_2010": 502,
+        "LAND_AREA_SQ_METER": 143682929,
+        "LAND_AREA_SQ_MILES": 55.476000000000006,
+        "LATITUDE": 38.384648,
+        "LONGITUDE": -121.578701,
+        "COUNTY": "Solano"
+    },
+    "95618": {
+        "ZIP_CODE": 95618,
+        "POPULATION_2010": 27281,
+        "HOUSING_2010": 10257,
+        "LAND_AREA_SQ_METER": 90464817,
+        "LAND_AREA_SQ_MILES": 34.929,
+        "LATITUDE": 38.543211,
+        "LONGITUDE": -121.6815,
+        "COUNTY": "Solano"
+    },
+    "95620": {
+        "ZIP_CODE": 95620,
+        "POPULATION_2010": 20553,
+        "HOUSING_2010": 7048,
+        "LAND_AREA_SQ_METER": 623564441,
+        "LAND_AREA_SQ_MILES": 240.76,
+        "LATITUDE": 38.412615,
+        "LONGITUDE": -121.756222,
+        "COUNTY": "Solano"
+    },
+    "95625": {
+        "ZIP_CODE": 95625,
+        "POPULATION_2010": 155,
+        "HOUSING_2010": 69,
+        "LAND_AREA_SQ_METER": 2991432,
+        "LAND_AREA_SQ_MILES": 1.155,
+        "LATITUDE": 38.358121000000004,
+        "LONGITUDE": -121.911547,
+        "COUNTY": "Solano"
+    },
+    "95687": {
+        "ZIP_CODE": 95687,
+        "POPULATION_2010": 65096,
+        "HOUSING_2010": 22537,
+        "LAND_AREA_SQ_METER": 112718088,
+        "LAND_AREA_SQ_MILES": 43.521,
+        "LATITUDE": 38.333133000000004,
+        "LONGITUDE": -121.920151,
+        "COUNTY": "Solano"
+    },
+    "95688": {
+        "ZIP_CODE": 95688,
+        "POPULATION_2010": 34379,
+        "HOUSING_2010": 12997,
+        "LAND_AREA_SQ_METER": 210272010,
+        "LAND_AREA_SQ_MILES": 81.186,
+        "LATITUDE": 38.408571,
+        "LONGITUDE": -122.022775,
+        "COUNTY": "Solano"
+    },
+    "95690": {
+        "ZIP_CODE": 95690,
+        "POPULATION_2010": 2533,
+        "HOUSING_2010": 1123,
+        "LAND_AREA_SQ_METER": 148353474,
+        "LAND_AREA_SQ_MILES": 57.28,
+        "LATITUDE": 38.199576,
+        "LONGITUDE": -121.618273,
+        "COUNTY": "Solano"
+    },
+    "95694": {
+        "ZIP_CODE": 95694,
+        "POPULATION_2010": 9156,
+        "HOUSING_2010": 3274,
+        "LAND_AREA_SQ_METER": 386439555,
+        "LAND_AREA_SQ_MILES": 149.205,
+        "LATITUDE": 38.568490999999995,
+        "LONGITUDE": -122.08021000000001,
+        "COUNTY": "Solano"
+    }
+}
